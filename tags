@@ -1,0 +1,287 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/d5bcb52b/
+*	themes/hugo-theme-stack/assets/jsconfig.json	/^            "*": [$/;"	a	object:compilerOptions.paths
+- 测试	content/post/chinese-test/index.zh-cn.md	/^    - 测试$/;"	s
+- 测试	themes/hugo-theme-stack/exampleSite/content/post/chinese-test/index.zh-cn.md	/^    - 测试$/;"	s
+0	themes/hugo-theme-stack/assets/jsconfig.json	/^                "*"$/;"	s	array:compilerOptions.paths.*
+0	themes/hugo-theme-stack/assets/jsconfig.json	/^        "lib": ["es2020", "dom"],$/;"	s	array:compilerOptions.lib
+1	themes/hugo-theme-stack/assets/jsconfig.json	/^        "lib": ["es2020", "dom"],$/;"	s	array:compilerOptions.lib
+<!--more-->	content/post/rich-content/index.md	/^<!--more-->$/;"	s
+<!--more-->	themes/hugo-theme-stack/exampleSite/content/post/rich-content/index.md	/^<!--more-->$/;"	s
+Blockquote with attribution	content/post/markdown-syntax/index.md	/^#### Blockquote with attribution$/;"	t
+Blockquote with attribution	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^#### Blockquote with attribution$/;"	t
+Blockquote without attribution	content/post/markdown-syntax/index.md	/^#### Blockquote without attribution$/;"	t
+Blockquote without attribution	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^#### Blockquote without attribution$/;"	t
+Blockquotes	content/post/markdown-syntax/index.md	/^## Blockquotes$/;"	s
+Blockquotes	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^## Blockquotes$/;"	s
+Code Blocks	content/post/markdown-syntax/index.md	/^## Code Blocks$/;"	s
+Code Blocks	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^## Code Blocks$/;"	s
+Code block indented with four spaces	content/post/markdown-syntax/index.md	/^#### Code block indented with four spaces$/;"	t
+Code block indented with four spaces	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^#### Code block indented with four spaces$/;"	t
+Code block with Hugo's internal highlight shortcode	content/post/markdown-syntax/index.md	/^#### Code block with Hugo's internal highlight shortcode$/;"	t
+Code block with Hugo's internal highlight shortcode	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^#### Code block with Hugo's internal highlight shortcode$/;"	t
+Code block with backticks	content/post/markdown-syntax/index.md	/^#### Code block with backticks$/;"	t
+Code block with backticks	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^#### Code block with backticks$/;"	t
+Copyright	themes/hugo-theme-stack/README.md	/^## Copyright$/;"	s
+DarkMuted	themes/hugo-theme-stack/assets/ts/color.ts	/^    DarkMuted: {$/;"	p	interface:colorScheme
+Demo	themes/hugo-theme-stack/README.md	/^## Demo$/;"	s
+Diff code block	content/post/markdown-syntax/index.md	/^#### Diff code block$/;"	t
+Diff code block	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^#### Diff code block$/;"	t
+Documentation	themes/hugo-theme-stack/README.md	/^## Documentation$/;"	s
+Examples	content/post/math-typesetting/index.md	/^### Examples$/;"	S
+Examples	themes/hugo-theme-stack/exampleSite/content/post/math-typesetting/index.md	/^### Examples$/;"	S
+Gist Shortcode	content/post/rich-content/index.md	/^## Gist Shortcode$/;"	s
+Gist Shortcode	themes/hugo-theme-stack/exampleSite/content/post/rich-content/index.md	/^## Gist Shortcode$/;"	s
+Gitlab Snippets Shortcode	content/post/rich-content/index.md	/^## Gitlab Snippets Shortcode$/;"	s
+Gitlab Snippets Shortcode	themes/hugo-theme-stack/exampleSite/content/post/rich-content/index.md	/^## Gitlab Snippets Shortcode$/;"	s
+H1	content/post/markdown-syntax/index.md	/^# H1$/;"	c
+H1	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^# H1$/;"	c
+H2	content/post/markdown-syntax/index.md	/^## H2$/;"	s
+H2	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^## H2$/;"	s
+H3	content/post/markdown-syntax/index.md	/^### H3$/;"	S
+H3	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^### H3$/;"	S
+H4	content/post/markdown-syntax/index.md	/^#### H4$/;"	t
+H4	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^#### H4$/;"	t
+H5	content/post/markdown-syntax/index.md	/^##### H5$/;"	T
+H5	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^##### H5$/;"	T
+H6	content/post/markdown-syntax/index.md	/^###### H6$/;"	u
+H6	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^###### H6$/;"	u
+HTMLDivElement	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        const pswp = document.querySelector('.pswp') as HTMLDivElement;$/;"	C
+HTMLElement	themes/hugo-theme-stack/assets/ts/main.ts	/^        const articleContent = document.querySelector('.article-content') as HTMLElement;$/;"	v
+Headings	content/post/markdown-syntax/index.md	/^## Headings$/;"	s
+Headings	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^## Headings$/;"	s
+Hugo Theme Stack	themes/hugo-theme-stack/README.md	/^# Hugo Theme Stack$/;"	c
+Hyperlinked image	content/post/markdown-syntax/index.md	/^## Hyperlinked image$/;"	s
+Hyperlinked image	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^## Hyperlinked image$/;"	s
+IdToElementMap	themes/hugo-theme-stack/assets/ts/scrollspy.ts	/^type IdToElementMap = { [key: string]: HTMLElement };$/;"	a
+Inline Markdown within tables	content/post/markdown-syntax/index.md	/^#### Inline Markdown within tables$/;"	t
+Inline Markdown within tables	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^#### Inline Markdown within tables$/;"	t
+Installation	themes/hugo-theme-stack/README.md	/^## Installation$/;"	s
+Introduction	themes/hugo-theme-stack/README.md	/^## Introduction$/;"	s
+List Types	content/post/markdown-syntax/index.md	/^## List Types$/;"	s
+List Types	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^## List Types$/;"	s
+Mane refeci capiebant unda mulcebat	content/post/placeholder-text/index.md	/^## Mane refeci capiebant unda mulcebat$/;"	s
+Mane refeci capiebant unda mulcebat	themes/hugo-theme-stack/exampleSite/content/post/placeholder-text/index.md	/^## Mane refeci capiebant unda mulcebat$/;"	s
+Nested list	content/post/markdown-syntax/index.md	/^#### Nested list$/;"	t
+Nested list	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^#### Nested list$/;"	t
+Ordered List	content/post/markdown-syntax/index.md	/^#### Ordered List$/;"	t
+Ordered List	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^#### Ordered List$/;"	t
+Other Elements — abbr, sub, sup, kbd, mark	content/post/markdown-syntax/index.md	/^## Other Elements — abbr, sub, sup, kbd, mark$/;"	s
+Other Elements — abbr, sub, sup, kbd, mark	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^## Other Elements — abbr, sub, sup, kbd, mark$/;"	s
+Paragraph	content/post/markdown-syntax/index.md	/^## Paragraph$/;"	s
+Paragraph	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^## Paragraph$/;"	s
+PhotoSwipe	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        PhotoSwipe: any;$/;"	p	interface:Window
+PhotoSwipeItem	themes/hugo-theme-stack/assets/ts/gallery.ts	/^interface PhotoSwipeItem {$/;"	i
+PhotoSwipeUI_Default	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        PhotoSwipeUI_Default: any$/;"	p	interface:Window
+Quickstart	themes/hugo-theme-stack/README.md	/^## Quickstart$/;"	s
+Quote Shortcode	content/post/rich-content/index.md	/^## Quote Shortcode$/;"	s
+Quote Shortcode	themes/hugo-theme-stack/exampleSite/content/post/rich-content/index.md	/^## Quote Shortcode$/;"	s
+References	themes/hugo-theme-stack/README.md	/^### References$/;"	S
+Requirements	themes/hugo-theme-stack/README.md	/^## Requirements$/;"	s
+Sponsoring	themes/hugo-theme-stack/README.md	/^## Sponsoring$/;"	s
+Stack	themes/hugo-theme-stack/assets/ts/main.ts	/^        Stack: any$/;"	p	interface:Window
+Stack	themes/hugo-theme-stack/assets/ts/main.ts	/^let Stack = {$/;"	v
+StackColorScheme	themes/hugo-theme-stack/assets/ts/colorScheme.ts	/^class StackColorScheme {$/;"	c
+StackGallery	themes/hugo-theme-stack/assets/ts/gallery.ts	/^class StackGallery {$/;"	c
+Tables	content/post/markdown-syntax/index.md	/^## Tables$/;"	s
+Tables	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^## Tables$/;"	s
+Thanks to	themes/hugo-theme-stack/README.md	/^## Thanks to$/;"	s
+Twitter Simple Shortcode	content/post/rich-content/index.md	/^## Twitter Simple Shortcode$/;"	s
+Twitter Simple Shortcode	themes/hugo-theme-stack/exampleSite/content/post/rich-content/index.md	/^## Twitter Simple Shortcode$/;"	s
+Unordered List	content/post/markdown-syntax/index.md	/^#### Unordered List$/;"	t
+Unordered List	themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md	/^#### Unordered List$/;"	t
+Vagus elidunt	content/post/placeholder-text/index.md	/^# Vagus elidunt$/;"	c
+Vagus elidunt	themes/hugo-theme-stack/exampleSite/content/post/placeholder-text/index.md	/^# Vagus elidunt$/;"	c
+Vibrant	themes/hugo-theme-stack/assets/ts/color.ts	/^    Vibrant: {$/;"	p	interface:colorScheme
+Vimeo Simple Shortcode	content/post/rich-content/index.md	/^## Vimeo Simple Shortcode$/;"	s
+Vimeo Simple Shortcode	themes/hugo-theme-stack/exampleSite/content/post/rich-content/index.md	/^## Vimeo Simple Shortcode$/;"	s
+Window	themes/hugo-theme-stack/assets/ts/gallery.ts	/^    interface Window {$/;"	i
+Window	themes/hugo-theme-stack/assets/ts/main.ts	/^    interface Window {$/;"	i
+YouTube Privacy Enhanced Shortcode	content/post/rich-content/index.md	/^## YouTube Privacy Enhanced Shortcode$/;"	s
+YouTube Privacy Enhanced Shortcode	themes/hugo-theme-stack/exampleSite/content/post/rich-content/index.md	/^## YouTube Privacy Enhanced Shortcode$/;"	s
+a	themes/hugo-theme-stack/assets/ts/gallery.ts	/^                const a = document.createElement('a');$/;"	C
+a	themes/hugo-theme-stack/assets/ts/gallery.ts	/^            const a = item.el.querySelector('a');$/;"	C
+activeClass	themes/hugo-theme-stack/assets/ts/scrollspy.ts	/^const activeClass = "active-class";$/;"	C
+anchorLinksQuery	themes/hugo-theme-stack/assets/ts/smoothAnchors.ts	/^const anchorLinksQuery = "a[href]";$/;"	C
+args	themes/hugo-theme-stack/.devcontainer/devcontainer.json	/^		"args": {$/;"	o	object:build
+articleContent	themes/hugo-theme-stack/assets/ts/main.ts	/^        const articleContent = document.querySelector('.article-content') as HTMLElement;$/;"	v
+articleTile	themes/hugo-theme-stack/assets/ts/main.ts	/^        const articleTile = document.querySelector('.article-list--tile');$/;"	v
+as	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        const pswp = document.querySelector('.pswp') as HTMLDivElement;$/;"	C
+as	themes/hugo-theme-stack/assets/ts/main.ts	/^        const articleContent = document.querySelector('.article-content') as HTMLElement;$/;"	v
+aux	themes/hugo-theme-stack/assets/ts/gallery.ts	/^            let aux: PhotoSwipeItem = {$/;"	v
+baseUrl	themes/hugo-theme-stack/assets/jsconfig.json	/^        "baseUrl": ".",$/;"	s	object:compilerOptions
+bilibilibi Shortcode	content/post/rich-content/index.md	/^## bilibilibi Shortcode$/;"	s
+bilibilibi Shortcode	themes/hugo-theme-stack/exampleSite/content/post/rich-content/index.md	/^## bilibilibi Shortcode$/;"	s
+bindClick	themes/hugo-theme-stack/assets/ts/colorScheme.ts	/^    private bindClick(toggleEl: HTMLElement) {$/;"	m	class:StackColorScheme
+bindMatchMedia	themes/hugo-theme-stack/assets/ts/colorScheme.ts	/^    private bindMatchMedia() {$/;"	m	class:StackColorScheme
+build	themes/hugo-theme-stack/.devcontainer/devcontainer.json	/^	"build": {$/;"	o
+buildIdToNavigationElementMap	themes/hugo-theme-stack/assets/ts/scrollspy.ts	/^function buildIdToNavigationElementMap(navigation: NodeListOf<Element>): IdToElementMap {$/;"	f
+color: "#fff"	content/categories/Test/_index.md	/^    color: "#fff"$/;"	s
+color: "#fff"	themes/hugo-theme-stack/exampleSite/content/categories/Test/_index.md	/^    color: "#fff"$/;"	s
+colorScheme	themes/hugo-theme-stack/assets/ts/color.ts	/^interface colorScheme {$/;"	i
+colorScheme	themes/hugo-theme-stack/assets/ts/colorScheme.ts	/^type colorScheme = 'light' | 'dark' | 'auto';$/;"	a
+colorsCache	themes/hugo-theme-stack/assets/ts/color.ts	/^let colorsCache: { [key: string]: colorScheme } = {};$/;"	v
+comment-section	themes/hugo-theme-stack/layouts/partials/comments/provider/cactus.html	/^<div id="comment-section"><\/div>$/;"	I
+comments: false	content/page/links/index.md	/^comments: false$/;"	s
+comments: false	themes/hugo-theme-stack/exampleSite/content/page/links/index.md	/^comments: false$/;"	s
+compilerOptions	themes/hugo-theme-stack/assets/jsconfig.json	/^    "compilerOptions": {$/;"	o
+computeOffsets	themes/hugo-theme-stack/assets/ts/scrollspy.ts	/^function computeOffsets(headers: NodeListOf<Element>) {$/;"	f
+const	themes/hugo-theme-stack/assets/ts/main.ts	/^        const articleContent = document.querySelector('.article-content') as HTMLElement;$/;"	v
+const	themes/hugo-theme-stack/assets/ts/main.ts	/^        const articleTile = document.querySelector('.article-list--tile');$/;"	v
+const	themes/hugo-theme-stack/assets/ts/main.ts	/^        const copyText = `Copy`,$/;"	v
+const	themes/hugo-theme-stack/assets/ts/main.ts	/^        const highlights = document.querySelectorAll('.article-content div.highlight');$/;"	v
+constructor	themes/hugo-theme-stack/assets/ts/colorScheme.ts	/^    constructor(toggleEl: HTMLElement) {$/;"	m	class:StackColorScheme
+copyText	themes/hugo-theme-stack/assets/ts/main.ts	/^        const copyText = `Copy`,$/;"	v
+createElement	themes/hugo-theme-stack/assets/ts/createElement.ts	/^function createElement(tag, attrs, children) {$/;"	f
+createElement	themes/hugo-theme-stack/assets/ts/main.ts	/^        createElement: any;$/;"	p	interface:Window
+currentGallery	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        let currentGallery = [];$/;"	v
+currentScheme	themes/hugo-theme-stack/assets/ts/colorScheme.ts	/^    private currentScheme: colorScheme;$/;"	p	class:StackColorScheme
+cusdis_thread	themes/hugo-theme-stack/layouts/partials/comments/provider/cusdis.html	/^<div id="cusdis_thread"$/;"	I
+dark-mode-toggle	themes/hugo-theme-stack/layouts/partials/sidebar/left.html	/^                <li id="dark-mode-toggle">$/;"	I
+debounced	themes/hugo-theme-stack/assets/ts/scrollspy.ts	/^function debounced(func: Function) {$/;"	f
+dispatchEvent	themes/hugo-theme-stack/assets/ts/colorScheme.ts	/^    private dispatchEvent(colorScheme: colorScheme) {$/;"	m	class:StackColorScheme
+disqus_thread	themes/hugo-theme-stack/layouts/partials/comments/provider/disqusjs.html	/^    <div id="disqus_thread"><\/div>$/;"	I
+dockerfile	themes/hugo-theme-stack/.devcontainer/devcontainer.json	/^		"dockerfile": "Dockerfile",$/;"	s	object:build
+el	themes/hugo-theme-stack/assets/ts/gallery.ts	/^                el: el$/;"	v
+el	themes/hugo-theme-stack/assets/ts/gallery.ts	/^            let el: HTMLElement = img;$/;"	v
+el	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        for (const el of figures) {$/;"	C
+el	themes/hugo-theme-stack/assets/ts/gallery.ts	/^    el: HTMLElement;$/;"	p	interface:PhotoSwipeItem
+else	themes/hugo-theme-stack/assets/ts/menu.ts	/^    } else {$/;"	v
+event	themes/hugo-theme-stack/assets/ts/colorScheme.ts	/^        const event = new CustomEvent('onColorSchemeChange', {$/;"	C	method:StackColorScheme.dispatchEvent
+features	themes/hugo-theme-stack/.devcontainer/devcontainer.json	/^	"features": {$/;"	o
+figcaption	themes/hugo-theme-stack/assets/ts/gallery.ts	/^                const figcaption = document.createElement('figcaption');$/;"	C
+figcaption	themes/hugo-theme-stack/assets/ts/gallery.ts	/^            const figcaption = el.querySelector('figcaption'),$/;"	C
+figure	themes/hugo-theme-stack/assets/ts/gallery.ts	/^            const figure = document.createElement('figure');$/;"	C
+figure	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        for (const figure of figures) {$/;"	C
+figure	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        for (const figure of figuresEl) {$/;"	C
+figures	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        const figures = container.querySelectorAll('figure.gallery-image');$/;"	C
+figuresEl	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        const figuresEl = container.querySelectorAll('figure.gallery-image');$/;"	C
+galleryContainer	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        const galleryContainer = document.createElement('div');$/;"	C
+galleryUID	themes/hugo-theme-stack/assets/ts/gallery.ts	/^    private galleryUID: number;$/;"	p	class:StackGallery
+getColor	themes/hugo-theme-stack/assets/ts/color.ts	/^async function getColor(key: string, hash: string, imageURL: string) {$/;"	f
+getSavedScheme	themes/hugo-theme-stack/assets/ts/colorScheme.ts	/^    private getSavedScheme(): colorScheme {$/;"	m	class:StackColorScheme
+gitalk-container	themes/hugo-theme-stack/layouts/partials/comments/provider/gitalk.html	/^<div id="gitalk-container"><\/div>$/;"	I
+golang	themes/hugo-theme-stack/.devcontainer/devcontainer.json	/^		"golang": "latest"$/;"	s	object:features
+h	themes/hugo-theme-stack/assets/ts/gallery.ts	/^                h: parseInt(img.getAttribute('height')),$/;"	v
+h	themes/hugo-theme-stack/assets/ts/gallery.ts	/^    h: number;$/;"	p	interface:PhotoSwipeItem
+hasLink	themes/hugo-theme-stack/assets/ts/gallery.ts	/^            const hasLink = img.parentElement.tagName == 'A';$/;"	C
+hash	themes/hugo-theme-stack/assets/ts/color.ts	/^    hash: string,                        \/\/\/ Regenerate color scheme when the image hash is c/;"	p	interface:colorScheme
+headersQuery	themes/hugo-theme-stack/assets/ts/scrollspy.ts	/^const headersQuery = ".article-content h1[id], .article-content h2[id], .article-content h3[id],/;"	C
+height	themes/hugo-theme-stack/assets/ts/menu.ts	/^    let height = target.offsetHeight;$/;"	v
+highlights	themes/hugo-theme-stack/assets/ts/main.ts	/^        const highlights = document.querySelectorAll('.article-content div.highlight');$/;"	v
+href	themes/hugo-theme-stack/assets/ts/scrollspy.ts	/^        const href = link.getAttribute("href");$/;"	C	function:buildIdToNavigationElementMap
+i18n-switch	themes/hugo-theme-stack/layouts/partials/sidebar/left.html	/^                <li id="i18n-switch">  $/;"	I
+icon: archives	content/page/archives/index.md	/^            icon: archives$/;"	s
+icon: archives	themes/hugo-theme-stack/exampleSite/content/page/archives/index.md	/^            icon: archives$/;"	s
+icon: user	content/page/about/index.md	/^            icon: user$/;"	s
+icon: user	content/page/about/index.zh-cn.md	/^            icon: user$/;"	s
+icon: user	themes/hugo-theme-stack/exampleSite/content/page/about/index.md	/^            icon: user$/;"	s
+icon: user	themes/hugo-theme-stack/exampleSite/content/page/about/index.zh-cn.md	/^            icon: user$/;"	s
+if	themes/hugo-theme-stack/assets/ts/main.ts	/^        if (articleContent) {$/;"	v
+if	themes/hugo-theme-stack/assets/ts/main.ts	/^        if (articleTile) {$/;"	v
+if	themes/hugo-theme-stack/assets/ts/menu.ts	/^    if (window.getComputedStyle(target).display === 'none') {$/;"	v
+images	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        const images = container.querySelectorAll('img.gallery-image');$/;"	C
+img	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        for (const img of Array.from(images)) {$/;"	C
+index	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        for (const [index, item] of this.items.entries()) {$/;"	C
+isDark	themes/hugo-theme-stack/assets/ts/colorScheme.ts	/^    private isDark() {$/;"	m	class:StackColorScheme
+isNewLineImage	themes/hugo-theme-stack/assets/ts/gallery.ts	/^            let isNewLineImage = paragraph.classList.contains('no-text');$/;"	v
+item	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        for (const [index, item] of this.items.entries()) {$/;"	C
+items	themes/hugo-theme-stack/assets/ts/gallery.ts	/^    private items: PhotoSwipeItem[] = [];$/;"	p	class:StackGallery
+jsx	themes/hugo-theme-stack/assets/jsconfig.json	/^        "jsx": "preserve"$/;"	s	object:compilerOptions
+let	themes/hugo-theme-stack/assets/ts/main.ts	/^            let observer = new IntersectionObserver(async (entries, observer) => {$/;"	v
+let	themes/hugo-theme-stack/assets/ts/menu.ts	/^    let height = target.offsetHeight;$/;"	v
+lib	themes/hugo-theme-stack/assets/jsconfig.json	/^        "lib": ["es2020", "dom"],$/;"	a	object:compilerOptions
+link	themes/hugo-theme-stack/assets/ts/scrollspy.ts	/^        const link = navigationElement.querySelector("a");$/;"	C	function:buildIdToNavigationElementMap
+localStorageKey	themes/hugo-theme-stack/assets/ts/colorScheme.ts	/^    private localStorageKey = 'StackColorScheme';$/;"	p	class:StackColorScheme
+main-menu	themes/hugo-theme-stack/layouts/partials/sidebar/left.html	/^    <ol class="menu" id="main-menu">$/;"	I
+math: true	content/post/math-typesetting/index.md	/^math: true$/;"	s
+math: true	themes/hugo-theme-stack/exampleSite/content/post/math-typesetting/index.md	/^math: true$/;"	s
+msrc	themes/hugo-theme-stack/assets/ts/gallery.ts	/^                msrc: img.getAttribute('data-thumb') || img.src,$/;"	v
+msrc	themes/hugo-theme-stack/assets/ts/gallery.ts	/^    msrc: string;$/;"	p	interface:PhotoSwipeItem
+name	themes/hugo-theme-stack/.devcontainer/devcontainer.json	/^	"name": "Hugo (Community)",$/;"	s
+navigationQuery	themes/hugo-theme-stack/assets/ts/scrollspy.ts	/^const navigationQuery = "#TableOfContents li";$/;"	C
+observer	themes/hugo-theme-stack/assets/ts/main.ts	/^            let observer = new IntersectionObserver(async (entries, observer) => {$/;"	v
+observer	themes/hugo-theme-stack/assets/ts/main.ts	/^            observer.observe(articleTile)$/;"	v
+palette	themes/hugo-theme-stack/assets/ts/color.ts	/^        const palette = await Vibrant.from(imageURL).getPalette();$/;"	C	function:getColor
+paragraph	themes/hugo-theme-stack/assets/ts/gallery.ts	/^            const paragraph = img.closest('p');$/;"	C
+parentNode	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        const parentNode = figures[0].parentNode,$/;"	C
+paths	themes/hugo-theme-stack/assets/jsconfig.json	/^        "paths": {$/;"	o	object:compilerOptions
+ps	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        const ps = new window.PhotoSwipe(pswp, window.PhotoSwipeUI_Default, this.items, {$/;"	C
+pswp	themes/hugo-theme-stack/assets/ts/gallery.ts	/^        const pswp = document.querySelector('.pswp') as HTMLDivElement;$/;"	C
+remark42	themes/hugo-theme-stack/layouts/partials/comments/provider/remark42.html	/^<div id="remark42"><\/div>$/;"	I
+return	themes/hugo-theme-stack/assets/ts/menu.ts	/^        return slideDown(target, duration);$/;"	v
+return	themes/hugo-theme-stack/assets/ts/menu.ts	/^        return slideUp(target, duration);$/;"	v
+saveScheme	themes/hugo-theme-stack/assets/ts/colorScheme.ts	/^    private saveScheme() {$/;"	m	class:StackColorScheme
+savedScheme	themes/hugo-theme-stack/assets/ts/colorScheme.ts	/^        const savedScheme = localStorage.getItem(this.localStorageKey);$/;"	C	method:StackColorScheme.getSavedScheme
+scrollToTocElement	themes/hugo-theme-stack/assets/ts/scrollspy.ts	/^function scrollToTocElement(tocElement: HTMLElement, scrollableNavigation: HTMLElement) {$/;"	f
+sectionLinkRef	themes/hugo-theme-stack/assets/ts/scrollspy.ts	/^    const sectionLinkRef: IdToElementMap = {};$/;"	C	function:buildIdToNavigationElementMap
+setBodyClass	themes/hugo-theme-stack/assets/ts/colorScheme.ts	/^    private setBodyClass() {$/;"	m	class:StackColorScheme
+setupScrollspy	themes/hugo-theme-stack/assets/ts/main.ts	/^            setupScrollspy();$/;"	v
+setupScrollspy	themes/hugo-theme-stack/assets/ts/scrollspy.ts	/^function setupScrollspy() {$/;"	f
+setupSmoothAnchors	themes/hugo-theme-stack/assets/ts/main.ts	/^            setupSmoothAnchors();$/;"	v
+setupSmoothAnchors	themes/hugo-theme-stack/assets/ts/smoothAnchors.ts	/^function setupSmoothAnchors() {$/;"	f
+slideDown	themes/hugo-theme-stack/assets/ts/menu.ts	/^        return slideDown(target, duration);$/;"	v
+slideDown	themes/hugo-theme-stack/assets/ts/menu.ts	/^let slideDown = (target: HTMLElement, duration = 500) => {$/;"	v
+slideToggle	themes/hugo-theme-stack/assets/ts/menu.ts	/^let slideToggle = (target, duration = 500) => {$/;"	v
+slideUp	themes/hugo-theme-stack/assets/ts/menu.ts	/^        return slideUp(target, duration);$/;"	v
+slideUp	themes/hugo-theme-stack/assets/ts/menu.ts	/^let slideUp = (target: HTMLElement, duration = 500) => {$/;"	v
+src	themes/hugo-theme-stack/assets/ts/gallery.ts	/^                src: img.src,$/;"	v
+src	themes/hugo-theme-stack/assets/ts/gallery.ts	/^    src: string;$/;"	p	interface:PhotoSwipeItem
+systemPreferScheme	themes/hugo-theme-stack/assets/ts/colorScheme.ts	/^    private systemPreferScheme: colorScheme;$/;"	p	class:StackColorScheme
+target	themes/hugo-theme-stack/assets/ts/menu.ts	/^    target.classList.add('show');$/;"	v
+target	themes/hugo-theme-stack/assets/ts/menu.ts	/^    target.classList.add('transiting');$/;"	v
+target	themes/hugo-theme-stack/assets/ts/menu.ts	/^    target.style.overflow = 'hidden';$/;"	v
+target	themes/hugo-theme-stack/assets/ts/menu.ts	/^    target.style.removeProperty('display');$/;"	v
+target	themes/hugo-theme-stack/assets/ts/menu.ts	/^    target.style.removeProperty('margin-bottom');$/;"	v
+target	themes/hugo-theme-stack/assets/ts/menu.ts	/^    target.style.removeProperty('margin-top');$/;"	v
+target	themes/hugo-theme-stack/assets/ts/menu.ts	/^    target.style.removeProperty('padding-bottom');$/;"	v
+target	themes/hugo-theme-stack/assets/ts/menu.ts	/^    target.style.transitionProperty = "height, margin, padding";$/;"	v
+target	themes/hugo-theme-stack/assets/ts/menu.ts	/^    target.style.transitionProperty = 'height, margin, padding';$/;"	v
+tcomment	themes/hugo-theme-stack/layouts/partials/comments/provider/twikoo.html	/^<div id="tcomment"><\/div>$/;"	I
+title	themes/hugo-theme-stack/assets/ts/gallery.ts	/^    title?: string;$/;"	p	interface:PhotoSwipeItem
+tocQuery	themes/hugo-theme-stack/assets/ts/scrollspy.ts	/^const tocQuery = "#TableOfContents";$/;"	C
+toggle-menu	themes/hugo-theme-stack/layouts/partials/sidebar/left.html	/^    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="{{ T `t/;"	I
+toggleMenu	themes/hugo-theme-stack/assets/ts/menu.ts	/^    const toggleMenu = document.getElementById('toggle-menu');$/;"	C
+vssue	themes/hugo-theme-stack/layouts/partials/comments/provider/vssue.html	/^<div id="vssue"><\/div>$/;"	I
+w	themes/hugo-theme-stack/assets/ts/gallery.ts	/^    w: number;$/;"	p	interface:PhotoSwipeItem
+waline	themes/hugo-theme-stack/layouts/partials/comments/provider/waline.html	/^<div id="waline" class="waline-container"><\/div>$/;"	I
+window	themes/hugo-theme-stack/assets/ts/menu.ts	/^    window.setTimeout(() => {$/;"	v
+{{ $id }}	themes/hugo-theme-stack/layouts/_default/archives.html	/^    <div class="archives-group" id="{{ $id }}">$/;"	I
+{{ $taxonomy.Title }}	themes/hugo-theme-stack/layouts/_default/archives.html	/^        <h2 class="section-title">{{ $taxonomy.Title }}<\/h2>$/;"	i
+{{ . }}	themes/hugo-theme-stack/layouts/_default/list.html	/^                    <h2 class="section-description">{{ . }}<\/h2>$/;"	i
+{{ . }}	themes/hugo-theme-stack/layouts/partials/article/components/details.html	/^        <\/h3>$/;"	j
+{{ .Key }}	themes/hugo-theme-stack/layouts/_default/archives.html	/^        <h2 class="archives-date section-title"><a href="{{ $.RelPermalink }}#{{ $id }}">{{ .Key/;"	i
+{{ .Site.Params.sidebar.subtitle }}	themes/hugo-theme-stack/layouts/partials/sidebar/left.html	/^            <h2 class="site-description">{{ .Site.Params.sidebar.subtitle }}<\/h2>$/;"	i
+{{ .Site.Title }}	themes/hugo-theme-stack/layouts/partials/sidebar/left.html	/^            <h1 class="site-name"><a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Title }}<\//;"	h
+{{ .Title }}	themes/hugo-theme-stack/layouts/_default/list.html	/^                <h1 class="section-term">{{ .Title }}<\/h1>$/;"	h
+{{ T "article.relatedContent" }}	themes/hugo-theme-stack/layouts/partials/article/components/related-content.html	/^    <h2 class="section-title">{{ T "article.relatedContent" }}<\/h2>$/;"	i
+{{ T "article.tableOfContents" }}	themes/hugo-theme-stack/layouts/partials/widget/toc.html	/^        <h2 class="widget-title section-title">{{ T "article.tableOfContents" }}<\/h2>$/;"	i
+{{ T "list.page" (len .Pages) }}	themes/hugo-theme-stack/layouts/_default/list.html	/^                <h3 class="section-count">{{ T "list.page" (len .Pages) }}<\/h3>$/;"	j
+{{ T "list.subsection" (len $subsections) }}	themes/hugo-theme-stack/layouts/_default/list.html	/^            <h2 class="section-title">{{ T "list.subsection" (len $subsections) }}<\/h2>$/;"	i
+{{ T "notFound.subtitle" }}	themes/hugo-theme-stack/layouts/404.html	/^        <h2 class="article-subtitle">{{ T "notFound.subtitle" }}<\/h2>$/;"	i
+{{ T "notFound.title" }}	themes/hugo-theme-stack/layouts/404.html	/^        <h1 class="article-title">{{ T "notFound.title" }}<\/h1>$/;"	h
+{{ T "widget.archives.title" }}	themes/hugo-theme-stack/layouts/partials/widget/archives.html	/^        <h2 class="widget-title section-title">{{ T "widget.archives.title" }}<\/h2>$/;"	i
+{{ T "widget.categoriesCloud.title" }}	themes/hugo-theme-stack/layouts/partials/widget/categories.html	/^    <h2 class="widget-title section-title">{{ T "widget.categoriesCloud.title" }}<\/h2>$/;"	i
+{{ T "widget.tagCloud.title" }}	themes/hugo-theme-stack/layouts/partials/widget/tag-cloud.html	/^    <h2 class="widget-title section-title">{{ T "widget.tagCloud.title" }}<\/h2>$/;"	i
+{{ if eq .Parent (.GetPage "/") }} {{ T "list.section" }} {{ else }} {{ .Parent.Title }} {{ end }}	themes/hugo-theme-stack/layouts/_default/list.html	/^        <\/h3>$/;"	j
+{{- $link.title -}}	themes/hugo-theme-stack/layouts/partials/article/components/links.html	/^                    <\/h2>$/;"	i
+{{- .Title -}}	themes/hugo-theme-stack/layouts/partials/article-list/compact.html	/^            <\/h2>$/;"	i
+{{- .Title -}}	themes/hugo-theme-stack/layouts/partials/article/components/details.html	/^        <\/h2>$/;"	i
+{{- .context.Title -}}	themes/hugo-theme-stack/layouts/partials/article-list/tile.html	/^            <\/h2>$/;"	i
+تجربة RTL	content/post/placeholder-text/index.ar.md	/^## تجربة RTL$/;"	s
+تجربة RTL	themes/hugo-theme-stack/exampleSite/content/post/placeholder-text/index.ar.md	/^## تجربة RTL$/;"	s
+فقرة 1	content/post/placeholder-text/index.ar.md	/^## فقرة 1$/;"	s
+فقرة 1	themes/hugo-theme-stack/exampleSite/content/post/placeholder-text/index.ar.md	/^## فقرة 1$/;"	s
+فقرة 2	content/post/placeholder-text/index.ar.md	/^## فقرة 2$/;"	s
+فقرة 2	themes/hugo-theme-stack/exampleSite/content/post/placeholder-text/index.ar.md	/^## فقرة 2$/;"	s
+图片	content/post/chinese-test/index.zh-cn.md	/^## 图片$/;"	s
+图片	themes/hugo-theme-stack/exampleSite/content/post/chinese-test/index.zh-cn.md	/^## 图片$/;"	s
+引用	content/post/chinese-test/index.zh-cn.md	/^## 引用$/;"	s
+引用	themes/hugo-theme-stack/exampleSite/content/post/chinese-test/index.zh-cn.md	/^## 引用$/;"	s
+正文测试	content/post/chinese-test/index.zh-cn.md	/^## 正文测试$/;"	s
+正文测试	themes/hugo-theme-stack/exampleSite/content/post/chinese-test/index.zh-cn.md	/^## 正文测试$/;"	s
