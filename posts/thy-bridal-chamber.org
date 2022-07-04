@@ -1,0 +1,130 @@
+#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
+#+OPTIONS: toc:nil
+
+#+HUGO_BASE_DIR: /home/shane/dump/home/shane/notes/ws/blog/blog
+#+HUGO_SECTION: ./posts
+
+#+TITLE: Thy Bridal Chamber
+#+DATE: <2022-06-29>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: faith christianity
+
+** Summary
+#+BEGIN_SRC text -n :async :results verbatim code
+  Thy bridal chamber I see adorned, O my Savior,
+  and I have no wedding garment that I may enter.
+  O Giver of Light, enlighten the vesture of my soul, and save me.
+#+END_SRC
+
++ [[http://gnosis.org/naghamm/gop.html][Gospel of Philip]] :: A bridal chamber is not for the animals, nor is it for the slaves, nor for defiled women; but it is for free men and virgins.
+
+[[http://gnosis.org/naghamm/gop.html][The Gospel of Philip -- The Nag Hammadi Library]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  There were three buildings specifically for
+  sacrifice in Jerusalem.
+  
+  The one facing the west was called "The Holy".
+  
+  Another, facing south, was called "The Holy of
+  the Holy".
+  
+  The third, facing east, was called "The Holy
+  of the Holies", the place where only the high
+  priest enters.
+  
+  Baptism is "the Holy" building.
+  
+  Redemption is the "Holy of the Holy".
+  
+  "The Holy of the Holies" is the bridal
+  chamber.
+#+END_SRC 
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  Baptism includes the resurrection and the
+  redemption; the redemption (takes place) in
+  the bridal chamber.
+  
+  But the bridal chamber is in that which is
+  superior to [...] you will not find [...] are
+  those who pray [...] Jerusalem who [...]
+  Jerusalem, [...] those called the "Holy of the
+  Holies" [...] the veil was rent, [...] bridal
+  chamber except the image [...] above.
+  
+  Because of this, its veil was rent from top to
+  bottom.
+  
+  For it was fitting for some from below to go
+  upward.
+  
+  The powers do not see those who are clothed in
+  the perfect light, and consequently are not
+  able to detain them.
+
+#+END_SRC
+  
+#+BEGIN_SRC text -n :async :results verbatim code
+  One will clothe himself in this light
+  sacramentally in the union.
+  
+  If the woman had not separated from the man,
+  she should not die with the man.
+  
+  His separation became the beginning of death.
+  
+  Because of this, Christ came to repair the
+  separation, which was from the beginning, and
+  again unite the two, and to give life to those
+  who died as a result of the separation, and
+  unite them.
+  
+  But the woman is united to her husband in the
+  bridal chamber.
+  
+  Indeed, those who have united in the bridal
+  chamber will no longer be separated.
+  
+  Thus Eve separated from Adam because it was
+  not in the bridal chamber that she united with
+  him.
+#+END_SRC
+
+- This document describes the bridal chamber:
+
+- [[https://mullikine.github.io/ox-hugo/The%20Valentinian%20Bridal%20Chamber%20in%20the%20Gospel%20of%20Philip.pdf][The Valentinian Bridal Chamber in the Gospel of Philip]]
+
+This is my visceral experience of the Bridal Chamber.
+
+- [[https://mullikine.github.io/posts/astral-projection/][Astral Projection // Bodacious Blog]]
+- [[https://mullikine.github.io/posts/astral-projection-pt-2/][Astral Projection Pt. 2 // Bodacious Blog]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  It is a hymn of deep irony and paradox.
+  
+  The “Bridal Chamber” carries a double meaning.
+  
+  It is, at once, the place of mystical union
+  between Christ and His Bride (the Church).
+  
+  At the same time, it is the grave of Christ
+  Himself.
+  
+  For that mystical union with Christ begins by
+  being “buried with Christ in His death” (in
+  Holy Baptism).
+  
+  The marriage of Christ and His Bride is in the
+  paradox of the hideous maw of death’s domain,
+  at the same time the place of Christ’s utter
+  triumph over every adversary.
+  
+  We are not removed from that terrible place –
+  we are healed precisely there.
+  
+  The resurrection of Christ begins in the tomb.
+#+END_SRC
+
+** See also
+- [[https://stelizabethorthodox.org/news/2020/4/14/i-have-no-wedding-garment][Thy Bridal Chamber]]
