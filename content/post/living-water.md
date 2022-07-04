@@ -9,17 +9,33 @@ draft = false
 God is Truth -- of the spiritual type.
 If your heart is True and pure
 then you can see God, you are a child of God and
-you are an eternal spirit.
+you are an eternal spirit - [but how?](https://mullikine.github.io/posts/the-tapestry-of-truth/)
 
 When you've seen God with spiritual eyes, a spring of living water is planted in the soul, gushing up to eternal life.
+
+[Thomas 59](http://www.earlychristianwritings.com/thomas/gospelthomas59.html)
+: (59) Jesus said, "Look at the living one while you are alive, lest you die and seek to see him but are not able to do so."
+
 A person can't forget this experience because a new standard is set for what is absolutely True; They have glimpsed who and what God is.
-How do you know? [You must become truth](https://mullikine.github.io/posts/the-tapestry-of-truth/).
+How do you know? [You must become truth](https://mullikine.github.io/posts/the-tapestry-of-truth/), through Jesus.
 
 [Proverbs 4:23](https://biblehub.com/text/proverbs/4-23.htm)
 : מִֽכָּל־ _mik-kāl_ `With all` מִ֭שְׁמָר _miš-mār_ `diligence` נְצֹ֣ר _nə-ṣōr_ `keep` לִבֶּ֑ךָ _lib-be-ḵā;_ `your heart` כִּֽי־ _kî-_ `for` מִ֝מֶּ֗נּוּ _mim-men-nū,_ `out of it` תּוֹצְא֥וֹת _tō-wṣ-’ō-wṯ_ `[spring] the issues` חַיִּֽים׃ _ḥay-yîm._ `of life`.
 
+Sin makes you untruthful.
 
-### Some feelings of the spirit-self {#some-feelings-of-the-spirit-self}
+[Galatians 3:21](https://www.biblegateway.com/passage/?search=Galatians%203&version=NIV)
+: 21 Is the law, therefore, opposed to the promises of God? Absolutely not!(AJ) For if a law had been given that could impart life, then righteousness would certainly have come by the law.(AK) 22 But Scripture has locked up everything under the control of sin,(AL) so that what was promised, being given through faith in Jesus Christ, might be given to those who believe.
+
+God's children have been [reborn](https://mullikine.github.io/posts/the-tapestry-of-truth/) of the Holy Spirit.
+
+---
+
+[Isaiah 66:2](https://biblia.com/bible/esv/isaiah/66/2)
+: 2 All these things my hand has made, and so all these things came to be, declares the Lord. But this is the one to whom I will look: he who is humble and contrite in spirit and trembles at my word.
+
+
+## Some feelings of the spirit-self {#some-feelings-of-the-spirit-self}
 
 Our spirit is our own truth compass.
 
@@ -79,14 +95,35 @@ Water on white is the depiction of the Water of Life.
 : A truth is a truth, when it works. That is how we know the truth: the truth is that which helps us to live – to live properly.
 
 
-### Vedhaantha - Hinduism {#vedhaantha-hinduism}
+## Preparing the heart {#preparing-the-heart}
 
-The teachings of Sri Sathya Sai (Indian guru) point to integrity bringing forth bliss, truth and joy. In this I can relate.
+
+### Plato {#plato}
+
+Eternal Truth may be as intractable as [Plato's ideal forms](https://en.wikipedia.org/wiki/Theory%5Fof%5Fforms) to most people.
+
+But it is a reality which you can know in your deepest self, and come to experience
+only while having a spiritual identity that
+has Jesus' Truth added to it, -to correct your internal alethiometer which perceives the world. Your spirit must be 'free of corruption' but with dependency on Jesus.
+
+If you sin but then genuinely follow Jesus' voice agian, it feels like Jesus pushes back on you.
+
+
+### Vedhaantha (Hinduism) {#vedhaantha--hinduism}
+
+The teachings of Sri Sathya Sai (Indian guru) point to integrity bringing forth bliss, truth and joy.
+
+I agree, it is more than this, read on.
+
+I'm saying that a person can come to Jesus
+from Platonism or Hinduism, or from anywhere
+for that matter.
+
 To have this a person must walk in their truth and external actions must reflect the inside.
 
 -   <https://mullikine.github.io/posts/living-water/>
 
--   Teachings of _**Sri Sathya Sai**_:
+-   Teachings of _**Sri Sathya Sai**_ - all sounds good to me:
     -   <https://www.sathyasai.org/>
     -   <https://www.sssbpt.info/ssspeaks/volume14/sss14-34.pdf>
     -   <https://www.sssbpt.info/ssspeaks/volume15/sss15-35.pdf>
@@ -100,27 +137,39 @@ temple in which the [eternal Aathma](https://www.sssbpt.info/ssspeaks/volume15/s
 "Manas-anyath, vachas-anyath, karmanya-anyath dhuraathmanaam"
 : The wicked are those whose thoughts deviate from their words and actions.
 
+<!--listend-->
+
+{{< highlight text "linenos=table, linenostart=1" >}}
 The Veda is dualistic. Vedhaantha is monistic (Adhvaitha).
 
-The essence of Vedhaantha is the triune unity of thought, word and
-deed. In this unity, true bliss can be experienced.
+The essence of Vedhaantha is the triune unity of thought, word and deed. In this unity, true bliss can be experienced.
 
 It will also demonstrate the spiritual basis of divinity.
 
 All study of Vedhaantha is of no avail if the precepts are not practised.
+{{< /highlight >}}
+
+Interesting and overlapping concepts to me!
+
+However, the Holy Spirit and hearing God's voice is about more than mere bliss!
+
+The Holy Spirit's voice and this Living Water,
+truly feels like an internal spring, and
+blazing fire in your heart and body when you
+follow and obey.
 
 
-#### In Christian terms {#in-christian-terms}
+### Christian baptism and the heart {#christian-baptism-and-the-heart}
 
 Water baptism - dedication to the obedience of divine precepts, from the heart,
 and the unity of inner and outer truth aligns your heart to God, so that you can see God.
 Bliss comes from this.
 
 
-### The Living Spring - Scriptures {#the-living-spring-scriptures}
+## The Living Spring - Scriptures {#the-living-spring-scriptures}
 
 
-#### [Revelation 22](https://www.biblegateway.com/passage/?search=Revelation+22&version=NIV) - Eden is Restored {#revelation-22-eden-is-restored}
+### [Revelation 22](https://www.biblegateway.com/passage/?search=Revelation+22&version=NIV) - Eden is Restored {#revelation-22-eden-is-restored}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 22 Then the angel showed me the river of the
@@ -129,7 +178,7 @@ from the throne of God and of the Lamb
 {{< /highlight >}}
 
 
-#### [Gospel of Thomas Saying 108](http://www.earlychristianwritings.com/thomas/gospelthomas108.html) {#gospel-of-thomas-saying-108}
+### [Gospel of Thomas Saying 108](http://www.earlychristianwritings.com/thomas/gospelthomas108.html) {#gospel-of-thomas-saying-108}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 (108) Jesus said: He who drinks from my mouth will become like me, and I
@@ -137,7 +186,7 @@ will become like him, and the hidden things will be revealed to him.
 {{< /highlight >}}
 
 
-#### [Gospel of Thomas Saying 13](http://www.earlychristianwritings.com/thomas/gospelthomas13.html) {#gospel-of-thomas-saying-13}
+### [Gospel of Thomas Saying 13](http://www.earlychristianwritings.com/thomas/gospelthomas13.html) {#gospel-of-thomas-saying-13}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 Jesus says: "I am no longer thy master; for
@@ -151,7 +200,7 @@ Teach others! Show others how to find it, with the method you found.
 The spring is real.
 
 
-#### John 10:27-28 {#john-10-27-28}
+### John 10:27-28 {#john-10-27-28}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 My sheep hear my voice, and I know them, and
@@ -165,7 +214,7 @@ This is the wellspring of truth bubbling up in our hearts.
 First, we must know the truth.
 
 
-#### John 5:24 {#john-5-24}
+### John 5:24 {#john-5-24}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 Truly, truly, I say to you, whoever hears my
@@ -175,7 +224,7 @@ passed from death to life.
 {{< /highlight >}}
 
 
-#### John 14:6 {#john-14-6}
+### John 14:6 {#john-14-6}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 Jesus said to him, “I am the way, and the
@@ -184,7 +233,7 @@ Father except through me.
 {{< /highlight >}}
 
 
-#### Jeremiah 2:13–19 {#jeremiah-2-13-19}
+### Jeremiah 2:13–19 {#jeremiah-2-13-19}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 “‘They have forsaken me, the spring of living
@@ -193,7 +242,7 @@ Almighty.”
 {{< /highlight >}}
 
 
-#### [Philippians 4:8](https://biblehub.com/niv/philippians/4.htm) {#philippians-4-8}
+### [Philippians 4:8](https://biblehub.com/niv/philippians/4.htm) {#philippians-4-8}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 Finally, brothers and sisters, whatever is
@@ -211,7 +260,7 @@ You're allowed to think of the person you love, even if they're cut off from you
 When you're being true, your soul finds rest.
 
 
-#### Ode 12 {#ode-12}
+### Ode 12 {#ode-12}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 For the dwelling place of the Word is man, and His truth is love.
@@ -219,7 +268,27 @@ Blessed are they who by means of Him have perceived everything, and have known t
 {{< /highlight >}}
 
 
-#### John 4:4–26 {#john-4-4-26}
+### [Book of Thomas the Contender](http://gnosis.org/naghamm/bookt.html) (Jude Thomas, missionary to India) {#book-of-thomas-the-contender--jude-thomas-missionary-to-india}
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+To the fool, however, the good and bad are the
+same - indeed the wise man will be nourished
+by the truth and (Ps. 1:3) "will be like a
+tree growing by the meandering stream" -
+seeing that there are some who, although
+having wings, rush upon the visible things,
+things that are far from the truth.
+{{< /highlight >}}
+
+This speaks against to belief systems which do
+not believe in good and evil.
+
+While being led by the Spirit of Truth it's
+possible to get vision/resolution to notice it
+more easily.
+
+
+### John 4:4–26 {#john-4-4-26}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 But he had to go through Samaria.
@@ -295,7 +364,7 @@ is speaking to you."
 {{< /highlight >}}
 
 
-#### [The Odes of Solomon](https://www.earlychristianwritings.com/text/odes.html) (first or second century AD) {#the-odes-of-solomon--first-or-second-century-ad}
+### [The Odes of Solomon](https://www.earlychristianwritings.com/text/odes.html) (first or second century AD) {#the-odes-of-solomon--first-or-second-century-ad}
 
 He has filled me with words of truth, that I may proclaim Him.
 And like the flowing of waters, truth flows from my mouth, and my lips declare His fruits.
@@ -311,39 +380,35 @@ I rejected the folly cast upon the earth.
 As a fountain gushes forth its water, so my heart gushes forth the praise of the Lord, and my lips bring forth praise to Him.
 His possessions are immortal life, and those who receive it are incorruptible.
 
-<!--list-separator-->
+_**13**_
 
--  13
+{{< highlight text "linenos=table, linenostart=1" >}}
+1 Behold, the Lord is our mirror. Open your eyes and see them in Him.
+2 And learn the manner of your face, then declare praises to His Spirit.
+3 And wipe the paint from your face, and love His holiness and put it on.
+4 Then you will be unblemished at all times with Him.
+{{< /highlight >}}
 
-    {{< highlight text "linenos=table, linenostart=1" >}}
-    1 Behold, the Lord is our mirror. Open your eyes and see them in Him.
-    2 And learn the manner of your face, then declare praises to His Spirit.
-    3 And wipe the paint from your face, and love His holiness and put it on.
-    4 Then you will be unblemished at all times with Him.
-    {{< /highlight >}}
+This is so true.
+The perfect identity.
+The divine scales of spiritual truth.
 
-    This is so true.
-    The perfect identity.
-    The divine scales of spiritual truth.
+See [The Tapestry of Truth // Bodacious Blog](https://mullikine.github.io/posts/the-tapestry-of-truth/).
 
-    See [The Tapestry of Truth // Bodacious Blog](https://mullikine.github.io/posts/the-tapestry-of-truth/).
+_**30**_
 
-<!--list-separator-->
-
--  30
-
-    {{< highlight text "linenos=table, linenostart=1" >}}
-    1 Fill for yourselves water from the living fountain of the Lord, because it has been opened for you.
-    2 And come all you thirsty and take a drink, and rest beside the fountain of the Lord.
-    3 Because it is pleasing and sparkling, and perpetually refreshes the self.
-    4 For much sweeter is its water than honey, and the honeycomb of bees is not to be compared with it;
-    5 Because it flowed from the lips of the Lord, and it named from the heart of the Lord.
-    6 And it came boundless and invisible, and until it was set in the middle they knew it not.
-    7 Blessed are they who have drunk from it, and have refreshed themselves by it. Hallelujah.
-    {{< /highlight >}}
+{{< highlight text "linenos=table, linenostart=1" >}}
+1 Fill for yourselves water from the living fountain of the Lord, because it has been opened for you.
+2 And come all you thirsty and take a drink, and rest beside the fountain of the Lord.
+3 Because it is pleasing and sparkling, and perpetually refreshes the self.
+4 For much sweeter is its water than honey, and the honeycomb of bees is not to be compared with it;
+5 Because it flowed from the lips of the Lord, and it named from the heart of the Lord.
+6 And it came boundless and invisible, and until it was set in the middle they knew it not.
+7 Blessed are they who have drunk from it, and have refreshed themselves by it. Hallelujah.
+{{< /highlight >}}
 
 
-#### [John 14:16-30 ERV](https://www.bible.com/bible/406/JHN.14.16-30.ERV) {#john-14-16-30-erv}
+### [John 14:16-30 ERV](https://www.bible.com/bible/406/JHN.14.16-30.ERV) {#john-14-16-30-erv}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 I will ask the Father, and he will give you
@@ -438,7 +503,7 @@ He has no power over me.
 {{< /highlight >}}
 
 
-#### [Thomas 17](http://www.earlychristianwritings.com/thomas/gospelthomas17.html) {#thomas-17}
+### [Thomas 17](http://www.earlychristianwritings.com/thomas/gospelthomas17.html) {#thomas-17}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 Jesus said: I will give you what no eye
@@ -448,7 +513,7 @@ the heart of man.
 {{< /highlight >}}
 
 
-#### [Ezekiel 36:26-27](https://www.biblegateway.com/passage/?search=Ezekiel%2036%3A26-27&version=NIV) {#ezekiel-36-26-27}
+### [Ezekiel 36:26-27](https://www.biblegateway.com/passage/?search=Ezekiel%2036%3A26-27&version=NIV) {#ezekiel-36-26-27}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 26 I will give you a new heart and put a new
@@ -460,7 +525,7 @@ keep my laws.
 {{< /highlight >}}
 
 
-#### [2 Timothy 2:15](https://www.biblegateway.com/passage/?search=2%20Timothy%202%3A15&version=NIV) {#2-timothy-2-15}
+### [2 Timothy 2:15](https://www.biblegateway.com/passage/?search=2%20Timothy%202%3A15&version=NIV) {#2-timothy-2-15}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 Do your best to present yourself to God as one
@@ -470,7 +535,7 @@ truth.
 {{< /highlight >}}
 
 
-#### [1 John 3:18](https://biblia.com/bible/esv/1-john/3/18) {#1-john-3-18}
+### [1 John 3:18](https://biblia.com/bible/esv/1-john/3/18) {#1-john-3-18}
 
 The truth must be in you, and you must live out the truth
 
@@ -480,7 +545,7 @@ or talk but in deed and in truth.
 {{< /highlight >}}
 
 
-#### [1 John 1:5–10](https://biblia.com/bible/esv/1-john/1/5-10) {#1-john-1-5-10}
+### [1 John 1:5–10](https://biblia.com/bible/esv/1-john/1/5-10) {#1-john-1-5-10}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 8 If we claim to be without sin, we deceive
@@ -493,7 +558,7 @@ his word is not in us.
 {{< /highlight >}}
 
 
-#### Ode 9 {#ode-9}
+### Ode 9 {#ode-9}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 And also that those who have known Him may not perish, and so that those who received Him may not be ashamed.
@@ -503,7 +568,7 @@ An everlasting crown is Truth; blessed are they who set it on their head.
 By grace we can have a truthful heart and spirit, and not be ashamed.
 
 
-#### Ode 24 {#ode-24}
+### Ode 24 {#ode-24}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 And the Lord destroyed the devices, of all those who had not the truth with them.
@@ -517,8 +582,13 @@ Some people exalt themselves, thinking themselves fortunate to have born into th
 Fools. The body and the outwards appearance doesn't save.
 It will be harder for them to make their heart truthful.
 
+[1 Corinthians 15:50 KJV](https://biblehub.com/kjv/1%5Fcorinthians/15-50.htm)
+: Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption.
 
-## [Ode 6](http://gnosis.org/library/odes.htm) {#ode-6}
+This is not just pretty language, it's the truth.
+
+
+### [Ode 6](http://gnosis.org/library/odes.htm) {#ode-6}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 For there went forth a stream, and it became a river great and broad; indeed it carried away everything, and it shattered and brought it to the Temple.
@@ -529,13 +599,43 @@ For from the Most High the drink was given.
 {{< /highlight >}}
 
 
-### The personal cistern {#the-personal-cistern}
+### [Psalm 34:8](https://www.biblegateway.com/passage/?search=Psalm%2034%3A8&version=NIV) {#psalm-34-8}
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+Taste and see that the Lord is good;
+blessed is the one who takes refuge in him.
+{{< /highlight >}}
+
+So turn your face to God (by becoming
+Truthful), and drink!
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+praxis
+    Key in meditation and spirituality, where
+    emphasis is placed on gaining first-hand
+    experience of concepts and certain areas,
+    such as union with the Divine, which can
+    only be explored through praxis due to the
+    inability of the finite mind (and its
+    tool, language) to comprehend or express
+    the infinite.
+
+    Wisdom is always taste (in both Latin and
+    Hebrew), the word for wisdom comes from
+    the word for taste.
+
+    Wisdom is something to taste, not
+    something to theorize about.
+{{< /highlight >}}
+
+
+## The personal cistern {#the-personal-cistern}
 
 I believe that at the heart of a person, God is seen differently by different people, as in seeing different facets of the same God.
 The cistern is your personal source of truth and joy.
 
 
-#### [Proverbs 5](https://www.biblegateway.com/passage/?search=Proverbs%205&version=KJV) {#proverbs-5}
+### [Proverbs 5](https://www.biblegateway.com/passage/?search=Proverbs%205&version=KJV) {#proverbs-5}
 
 `Lest thou give thine honour unto others`
 : Do not let thieves trick you into giving them your honour. Similar to 'do not throw your pearls before swine'. If you are faithful to someone then hold onto that; It's not just a gift. A person builds their life on their honour which is their personal truth which involves true love.
@@ -570,17 +670,17 @@ From a marriage standpoint, your wife is your cistern.
 Generally, the idea of self-integrity (faithfulness to yourself) and integrity of word (and persona), and unto God is still relevant.
 
 
-### The Personal Cistern and the Living Spring {#the-personal-cistern-and-the-living-spring}
+## The Personal Cistern and the Living Spring {#the-personal-cistern-and-the-living-spring}
 
 The personal cistern is the source of a
 person's truth and joy. This is where the
 Living Spring is planted.
 
-To upgrade the cistern, you must make yourself into spiritual truth
+To upgrade the cistern, you must make yourself into spiritual truth, and retain it through the Holy Spirit
 : [The Tapestry of Truth](https://semiosis.github.io/posts/the-tapestry-of-truth/)
 
 
-### Appendix {#appendix}
+## Knowing who God is {#knowing-who-god-is}
 
 I think that putting on immortality is like making your heart pure and 'seeing God'.
 
@@ -594,12 +694,21 @@ These passages allude to that idea:
 : 34 Awake to righteousness, and sin not; for some have not the knowledge of God: I speak this to your shame.
 
 
-#### Spiritual understanding - Christianity {#spiritual-understanding-christianity}
+## The Next Level: Spiritual Understanding - Soul-bonding with Christ {#the-next-level-spiritual-understanding-soul-bonding-with-christ}
 
-Only those aided by God's Holy Spirit have the
-capacity to understand spiritual things,
-including God's plan of salvation through
-faith in the crucified Christ ([1 Corinthians 2:14](https://www.biblegateway.com/passage/?search=1%20Corinthians%202%3A14&version=NIV)).
+[1 Corinthians 2:14](https://www.biblegateway.com/passage/?search=1%20Corinthians%202%3A14&version=NIV)
+: Only those aided by God's Holy Spirit have the capacity to understand spiritual things, including God's plan of salvation through faith in the crucified Christ.
+
+This is a step beyond becoming truthful!
+You must at this point:
+
+-   confess that the God of <span class="underline">Spiritual Truth</span> and <span class="underline">Agape Love</span> is your Father
+-   confess Jesus is your Saviour
+-   confess that the Holy Spirit is your Councilor
+-   ask for Jesus to enter into your heart!
+-   ask for the Holy Spirit to enter into your heart!
+
+After that, the mysteries of knowledge and wisdom are revealed to you over time, only a few weeks for me!
 
 `Gospel of Thomas (28)`
 : Jesus said, "I took my place in the midst of the world, and I appeared to them in
@@ -611,10 +720,14 @@ faith in the crucified Christ ([1 Corinthians 2:14](https://www.biblegateway.com
 Consider that this is with the intention of
 making our own spirits truthful, so we can see God and receive eternal life.
 
+Firstly, we 'see' God by 'understanding' what spiritual truth is, and God as being the ideal form of it! Like a perfect triangle or ideal form (Plato).
+Secondly, we **may** get a chance to 'see' God by meeting Him in the Bridal Chamber!
+
 Through faith we can become spiritually true, acceptable to God, but
 that this depends on grace through Jesus.
 
-Though we are now truthful with dependency on grace.
+Though we are now truthful with dependency on grace, and we maintain it with the spirit of Jesus inside of us!
+
 Truth and Love are two sides of the same coin.
 It is an act of love to God to abide in His divine law; To love one another, and to love God (truth).
 
