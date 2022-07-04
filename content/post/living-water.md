@@ -11,6 +11,8 @@ If your heart is True and pure
 then you can see God, you are a child of God and
 you are an eternal spirit - [but how?](https://mullikine.github.io/posts/the-tapestry-of-truth/)
 
+-   [John 7:38-](https://www.biblegateway.com/passage/?search=John%207%3A38&version=NIV) “He who believes in Me, as the Scripture said, ‘From his innermost being will flow rivers of living water.’ ”
+
 When you've seen God with spiritual eyes, a spring of living water is planted in the soul, gushing up to eternal life.
 
 [Thomas 59](http://www.earlychristianwritings.com/thomas/gospelthomas59.html)
