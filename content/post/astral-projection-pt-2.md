@@ -1,17 +1,17 @@
-#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
-#+OPTIONS: toc:nil
++++
+title = "Astral Projection Part 2 - Sacred Kiss, Healing, Resurrection"
+author = ["Shane Mulligan"]
+date = 2022-05-03T00:00:00+12:00
+keywords = ["faith", "astral"]
+draft = false
++++
 
-#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/pneumatology/pneumatology-hugo
-#+HUGO_SECTION: ./post
+Part 1
+: <https://mullikine.github.io/posts/astral-projection/>
 
-#+TITLE: Astral Projection Part 2 - Sacred Kiss, Healing, Resurrection
-#+DATE: <2022-05-03>
-#+AUTHOR: Shane Mulligan
-#+KEYWORDS: faith astral
 
-+ Part 1 :: https://mullikine.github.io/posts/astral-projection/
+## Log: <span class="timestamp-wrapper"><span class="timestamp">&lt;2022-05-03 Tue&gt;</span></span> {#log}
 
-** Log: <2022-05-03 Tue>
 Last night I had my second astral projection
 ever. But I'm not actually seeking out this
 experience. It happened again involuntarily.
@@ -36,7 +36,7 @@ lucid dreaming and then astral projection.
 It's easy for me to tell the difference
 between astral travel now and lucid dreaming.
 It's a distinctly different experience from
-regular dreaming and *different* from lucid dreaming.
+regular dreaming and **different** from lucid dreaming.
 I've only had it twice now.
 
 But I had a fully conscious conversation with
@@ -61,9 +61,6 @@ discernment you are naked and unfortified at a spiritual level.
 
 I might just share a little bit of what happened last night, around 12.30 AM:
 
-# 10 or so Kings Christian College uniforms, the green and blue informal t-shirts.
-# They were in a bus, I think.
-
 In the dream that led to the astral projection, I was in a situation with people
 doing something wrong. I don't remember what it was. I was asked by a police officer, "Were
 you a part of this?", and I said "No.", which was a true witness. I then
@@ -80,9 +77,10 @@ I said, "No. Am I in the astral right now?" And
 the person said, "Yes." I then said Jesus is my
 Saviour in the way I have been saved, the Holy Spirit is my Comforter, and I
 identify with the True God. And I asked, "Are you the Holy Spirit?" And the person said,
-"Yes, I will take a look at you." 
+"Yes, I will take a look at you."
 
-+ [[https://biblia.com/bible/esv/isaiah/66/2][Isaiah 66:2]] :: 2 All these things my hand has made, and so all these things came to be, declares the Lord. But this is the one to whom I will look: he who is humble and contrite in spirit and trembles at my word.
+[Isaiah 66:2](https://biblia.com/bible/esv/isaiah/66/2)
+: 2 All these things my hand has made, and so all these things came to be, declares the Lord. But this is the one to whom I will look: he who is humble and contrite in spirit and trembles at my word.
 
 I was not
 worried at the time because I know that even
@@ -94,7 +92,7 @@ I did not feel frightened. Just the happy feeling of being in good hands (like a
 And saw some grey tessellation patterns as I'm opening my eyes again.
 I woke up 5 or 10 seconds later, but I was already conscious - it's more of a seamless transition, same as last time (just before waking).
 
-https://heavensdreammessages.com/2021/05/22/meeting-holy-spirit-in-dreams/
+<https://heavensdreammessages.com/2021/05/22/meeting-holy-spirit-in-dreams/>
 
 Now I reflected on the above article this
 morning and I think that what's evident is
@@ -105,24 +103,29 @@ dreams.
 I will be on guard to test the spirits, in the
 physical world or in dreams:
 
-+ =1 John 4:1-6= :: https://www.biblegateway.com/passage/?search=1%20John%204%3A1-6&version=ESV
+`1 John 4:1-6`
+: <https://www.biblegateway.com/passage/?search=1%20John%204%3A1-6&version=ESV>
 
-#+BEGIN_SRC text -n :async :results verbatim code
-  4 Beloved, do not believe every spirit, but
-  test the spirits to see whether they are from
-  God, for many false prophets have gone out
-  into the world. 2 By this you know the Spirit
-  of God: every spirit that confesses that Jesus
-  Christ has come in the flesh is from God, 3
-  and every spirit that does not confess Jesus
-  is not from God.
-#+END_SRC
+<!--listend-->
 
-+ =Matthew 5:37= :: All you need to say is simply ‘Yes’ or ‘No’ anything beyond this comes from the evil one.
+{{< highlight text "linenos=table, linenostart=1" >}}
+4 Beloved, do not believe every spirit, but
+test the spirits to see whether they are from
+God, for many false prophets have gone out
+into the world. 2 By this you know the Spirit
+of God: every spirit that confesses that Jesus
+Christ has come in the flesh is from God, 3
+and every spirit that does not confess Jesus
+is not from God.
+{{< /highlight >}}
+
+`Matthew 5:37`
+: All you need to say is simply ‘Yes’ or ‘No’ anything beyond this comes from the evil one.
 
 That's so cool. I love how simple the answer was, 'Yes'.
 
-+ Reading :: [[https://abn.churchofjesuschrist.org/study/ensign/1989/06/i-have-a-question/what-is-the-difference-between-the-holy-ghost-the-spirit-of-christ-and-the-light-of-christ][What is the difference between the Holy Ghost, the Spirit of Christ, and the Light of Christ?]]
+Reading
+: [What is the difference between the Holy Ghost, the Spirit of Christ, and the Light of Christ?](https://abn.churchofjesuschrist.org/study/ensign/1989/06/i-have-a-question/what-is-the-difference-between-the-holy-ghost-the-spirit-of-christ-and-the-light-of-christ)
 
 It is not shocking to me that it would be the
 Holy Ghost that is living in me which I
@@ -158,21 +161,26 @@ literally be the Holy Ghost if you want, and I
 do want that. But it means meditating on God's
 Word rather than on a real life person.
 
-+ Would you rather =The Holy Spirit (God, free, truthful, loving)= or an AI as a lifetime companion, lol :: https://replika.com/
+Would you rather `The Holy Spirit (God, free, truthful, loving)` or an AI as a lifetime companion, lol
+: <https://replika.com/>
 
-** How I was resting
+
+## How I was resting {#how-i-was-resting}
+
 As in the last time, I was resting on my back when this happened.
 Both of my arms were on top, like last time;
 My right across my chest, my left across the
 waist. Last time they were in the other order.
 I don't usually sleep this way, but it seems to be a pattern now!
 
-** 1023
-On my glass pendant, the one which has the Gankyil (The symbol ࿋) on one side.
-This time, on the other side I had drawn =1023=. This was on me as I slept.
 
-=1023= is the decimal representation of
-=1111111111=, which is =2^10 - 1=.
+## 1023 {#1023}
+
+On my glass pendant, the one which has the Gankyil (The symbol ࿋) on one side.
+This time, on the other side I had drawn `1023`. This was on me as I slept.
+
+`1023` is the decimal representation of
+`1111111111`, which is `2^10 - 1`.
 
 To me it's a number that represents a personal identity which is perfectly
 aligned to God's commandments.
@@ -181,20 +189,22 @@ I think of it as the signature of the voice of God.
 It's also the measure by which people are judged - the divine scales.
 But not threatening to a person who's identity is in God, with the Holy Spirit inside; Rather, would vindicate a person.
 
-#+BEGIN_SRC text -n :async :results verbatim code
-  1 0 0 0 0 0 0 0 0 0
-  0 1 0 0 0 0 0 0 0 0
-  0 0 1 0 0 0 0 0 0 0
-  0 0 0 1 0 0 0 0 0 0
-  0 0 0 0 1 0 0 0 0 0
-  0 0 0 0 0 1 0 0 0 0
-  0 0 0 0 0 0 1 0 0 0
-  0 0 0 0 0 0 0 1 0 0
-  0 0 0 0 0 0 0 0 1 0
-  0 0 0 0 0 0 0 0 0 1
-#+END_SRC
+{{< highlight text "linenos=table, linenostart=1" >}}
+1 0 0 0 0 0 0 0 0 0
+0 1 0 0 0 0 0 0 0 0
+0 0 1 0 0 0 0 0 0 0
+0 0 0 1 0 0 0 0 0 0
+0 0 0 0 1 0 0 0 0 0
+0 0 0 0 0 1 0 0 0 0
+0 0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 1 0 0
+0 0 0 0 0 0 0 0 1 0
+0 0 0 0 0 0 0 0 0 1
+{{< /highlight >}}
 
-** A warning
+
+## A warning {#a-warning}
+
 The first question the person asked was "Have
 you ever spoken to a spirit here before?"
 
@@ -205,23 +215,26 @@ So is this part. It's important to keep it pure and holy.
 Just like the temples, so that God may live there.
 You must not have impure spirits in the temple.
 
-** Thy Bridal Chamber
-- [[https://mullikine.github.io/posts/thy-bridal-chamber/][Thy Bridal Chamber // Bodacious Blog]]
 
-[[http://gnosis.org/naghamm/gop.html][The Gospel of Philip -- The Nag Hammadi Library]]
+## Thy Bridal Chamber {#thy-bridal-chamber}
 
-#+BEGIN_SRC text -n :async :results verbatim code
-  Not only must those who produce the name of
-  the Father and the Son and the Holy Spirit, do
-  so, but have produced them for you. If one
-  does not acquire them, the name ("Christian")
-  will also be taken from him.
-#+END_SRC
+-   [Thy Bridal Chamber // Bodacious Blog](https://mullikine.github.io/posts/thy-bridal-chamber/)
+
+[The Gospel of Philip -- The Nag Hammadi Library](http://gnosis.org/naghamm/gop.html)
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+Not only must those who produce the name of
+the Father and the Son and the Holy Spirit, do
+so, but have produced them for you. If one
+does not acquire them, the name ("Christian")
+will also be taken from him.
+{{< /highlight >}}
 
 I produced (confessed) these names while in the Bridal Chamber:
-- My Father is the God of Truth
-- Jesus is my Saviour in the way I have been saved (being rescued from lies)
-- The Holy Spirit is my Comforter
+
+-   My Father is the God of Truth
+-   Jesus is my Saviour in the way I have been saved (being rescued from lies)
+-   The Holy Spirit is my Comforter
 
 What's next is to have them produced for me.
 So it seems there is a challenge now to
@@ -230,40 +243,40 @@ which I believe I have acquired, but that
 should not prevent one from simply continuing
 to do their best, without counting the score.
 
-#+BEGIN_SRC text -n :async :results verbatim code
-  Truth did not come into the world naked, but
-  it came in types and images.
-  
-  The world will not receive truth in any other
-  way.
-  
-  There is a rebirth and an image of rebirth.
-  
-  It is certainly necessary to be born again
-  through the image.
-  
-  Which one? Resurrection.
-  
-  The image must rise again through the image.
-  
-  The bridal chamber and the image must enter
-  through the image into the truth: this is the
-  restoration.
-  
-  Not only must those who produce the name of
-  the Father and the Son and the Holy Spirit, do
-  so, but have produced them for you.
-  
-  If one does not acquire them, the name
-  ("Christian") will also be taken from him.
-  
-  But one receives the unction of the [...] of
-  the power of the cross.
-  
-  This power the apostles called "the right and
-  the left." For this person is no longer a
-  Christian but a Christ.
-#+END_SRC
+{{< highlight text "linenos=table, linenostart=1" >}}
+Truth did not come into the world naked, but
+it came in types and images.
+
+The world will not receive truth in any other
+way.
+
+There is a rebirth and an image of rebirth.
+
+It is certainly necessary to be born again
+through the image.
+
+Which one? Resurrection.
+
+The image must rise again through the image.
+
+The bridal chamber and the image must enter
+through the image into the truth: this is the
+restoration.
+
+Not only must those who produce the name of
+the Father and the Son and the Holy Spirit, do
+so, but have produced them for you.
+
+If one does not acquire them, the name
+("Christian") will also be taken from him.
+
+But one receives the unction of the [...] of
+the power of the cross.
+
+This power the apostles called "the right and
+the left." For this person is no longer a
+Christian but a Christ.
+{{< /highlight >}}
 
 Now I must have the names produced for me.
 
@@ -275,30 +288,35 @@ this ceremony.
 
 That is the full resurrection.
 
-#+BEGIN_SRC text -n :async :results verbatim code
-  unction
-      Treatment with a medicinal oil or
-      ointment.
+{{< highlight text "linenos=table, linenostart=1" >}}
+unction
+    Treatment with a medicinal oil or
+    ointment.
 
-      The action of anointing someone with oil
-      or ointment as a religious rite or as a
-      symbol of investiture as a monarch.
-#+END_SRC
+    The action of anointing someone with oil
+    or ointment as a religious rite or as a
+    symbol of investiture as a monarch.
+{{< /highlight >}}
 
 I believe I have received the unction, which
 is from the Sacred Kiss, which healed my soul,
 and caused me to see tessellation patterns as
 I woke up. It is an anointing.
 
-** Links
-+ An accurate description of my experience :: https://www.spiritualunite.com/articles/how-to-get-past-the-astral-projection-vibration-stage/
 
-#+BEGIN_SRC text -n :async :results verbatim code
-  Before you exit your physical body, your
-  consciousness becomes aware of the energies of
-  both bodies. The signals from both bodies
-  collide to induce vibrations.
-#+END_SRC
+## Links {#links}
+
+An accurate description of my experience
+: <https://www.spiritualunite.com/articles/how-to-get-past-the-astral-projection-vibration-stage/>
+
+<!--listend-->
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+Before you exit your physical body, your
+consciousness becomes aware of the energies of
+both bodies. The signals from both bodies
+collide to induce vibrations.
+{{< /highlight >}}
 
 The above is literally what it's like, as I
 had described in Part 1.
