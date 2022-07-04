@@ -1,8 +1,8 @@
 #+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
 #+OPTIONS: toc:nil
 
-#+HUGO_BASE_DIR: /home/shane/dump/home/shane/notes/ws/blog/blog
-#+HUGO_SECTION: ./posts
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/pneumatology/pneumatology-hugo
+#+HUGO_SECTION: ./post
 
 #+TITLE: Astral Projection Part 2 - Sacred Kiss, Healing, Resurrection
 #+DATE: <2022-05-03>
