@@ -150,7 +150,8 @@ Jesus is coming like a thief.
 
 ## My realisation - I am already resurrected {#my-realisation-i-am-already-resurrected}
 
-This means I am one of the Elect.
+This means I am one of the Elect (electrician, LOL, God has a sense of humour).
+I will have to investigate if this is what it means; But I know I am already reborn.
 I have died spiritually, through sin, but I've been resurrected through Jesus, after praying to him in my place of death.
 
 This was predestined to take place.
