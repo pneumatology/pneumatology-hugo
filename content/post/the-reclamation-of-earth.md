@@ -15,7 +15,8 @@ It started like this:
 -   A second later there was another flash, but this time of my trumpet
 
 The trumpet does not belong to me, but belongs to the holy angel which I am united with through the Bridal Chamber - that may be Jesus Himself, but I do not know - all I know is the Holy Spirit is inside me.
-I'm united with an `angel of the Saviour`. Now the term `angel of God` has sometimes been used.
+I **may** be united with an `angel of the Saviour` (see bottom); I have to learn more about this.
+Now the term `angel of God` has sometimes been used.
 Simply, I'm soul-bonded with God. I do not know the precise details.
 
 The electrician was coming over today and needed to do some work in my room.
@@ -47,7 +48,9 @@ Like Peter, I had a dream of being freed by an Angel, and the prison was Lies an
 
 -   [Astral Projection Part 2 - Sacred Kiss, Healing, Resurrection // Bodacious Blog](https://mullikine.github.io/posts/astral-projection-pt-2/)
 
-A person can spiritually die in this life, meet Jesus in the bridal chamber and be resurrected early. I'm sure this is the truth; It's what happened to me.
+A person can spiritually die in this life, meet Jesus in the bridal chamber and be resurrected early.
+I'm sure this is the truth; It's what happened to me.
+I spiritually died but was resurrected.
 Then they will never taste [the second death] (Hell), as the Gospel of Thomas says.
 
 If a person dies in this life without becoming truth through being saved by Jesus then they sit on their truth in Sheol (the place of the dead).
@@ -186,3 +189,42 @@ Eventually the world will burn in the Truth.
 upon the world, and see, I am
 watching it until it blazes."
 {{< /highlight >}}
+
+
+## One True Church? {#one-true-church}
+
+`Anyone who trusts in him will never be put to shame.`
+
+[Romans 10:10-13](http://web.mit.edu/jywang/www/cef/Bible/NIV/NIV%5FBible/ROM+10.html)
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+For it is with your heart that you believe and are justified, and it is with your mouth that you confess and are saved.
+As the Scripture says, "Anyone who trusts in him will never be put to shame." [5]
+For there is no difference between Jew and Gentile--the same Lord is Lord of all and richly blesses all who call on him,
+for, "Everyone who calls on the name of the Lord will be saved." [6]
+{{< /highlight >}}
+
+-   [Dream: A Thief and Liar and bad Caretaker trying to Escape. You've got to know Jesus // Bodacious Blog](https://mullikine.github.io/posts/dream-a-thief-and-liar-trying-to-escape/)
+
+-   4 In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.
+
+
+## Angel of the Saviour {#angel-of-the-saviour}
+
+There is a hint of truth to Irenaus' teaching.
+The perfect day happened to me; I even prayed for my Earthly mum.
+Now when I say united with an `angel of the Saviour`, I say this because I believe I soul-bonded with Holy Spirit.
+But the Valentinians
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+Irenaeus taught that when Valentinians “at last achieve perfection, [they] shall
+be given as brides to the angels of the Savior” (Against Heresies 1.7.5).
+Rather than being a marriage where a man and a woman are united,
+the Valentinian bridal chamber was a place where individuals were
+united with their divine self, their angel.
+{{< /highlight >}}
+
+
+## Angelic Song {#angelic-song}
+
+{{< youtube OJWJE0x7T4Q >}}
