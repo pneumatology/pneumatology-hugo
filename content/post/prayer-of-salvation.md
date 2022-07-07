@@ -192,8 +192,8 @@ point you confess directly to God.
 Anyone can get the alethiometer for a brief
 moment by finding their personal identity but
 to keep it you must confess to God that you
-need saving and pledge your allegiance to your
-saviour.
+need saving and pledge to follow in the footsteps of your
+Saviour, Jesus.
 
 Ask for your spirit to be cleansed with the blood of Jesus (your Lord and Saviour) which was shed for the forgiveness of sin.
 
