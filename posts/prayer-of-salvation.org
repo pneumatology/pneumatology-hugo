@@ -1,8 +1,8 @@
 #+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
 #+OPTIONS: toc:nil
 
-#+HUGO_BASE_DIR: /home/shane/dump/home/shane/notes/ws/blog/blog
-#+HUGO_SECTION: ./posts
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/pneumatology/pneumatology-hugo
+#+HUGO_SECTION: ./post
 
 #+TITLE: Prayer of Salvation
 #+DATE: <2022-04-20>
@@ -191,7 +191,7 @@ to keep it you must confess to God that you
 need saving and pledge your allegiance to your
 saviour.
 
-Ask for your spirit to be cleansed with the blood of Jesus which was shed for the forgiveness of sin.
+Ask for your spirit to be cleansed with the blood of Jesus (your Lord and Saviour) which was shed for the forgiveness of sin.
 
 Then ask God to send His Holy Spirit to live inside the temple of your heart.
 Remain True henceforth.
