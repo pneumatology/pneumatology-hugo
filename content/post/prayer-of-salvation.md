@@ -1,17 +1,17 @@
-#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
-#+OPTIONS: toc:nil
++++
+title = "Prayer of Salvation"
+author = ["Shane Mulligan"]
+date = 2022-04-20T00:00:00+12:00
+keywords = ["faith", "christianity"]
+draft = false
++++
 
-#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/pneumatology/pneumatology-hugo
-#+HUGO_SECTION: ./post
+The Tapestry of Truth
+: [The Tapestry of Truth // Bodacious Blog](https://mullikine.github.io/posts/the-tapestry-of-truth/)
 
-#+TITLE: Prayer of Salvation
-#+DATE: <2022-04-20>
-#+AUTHOR: Shane Mulligan
-#+KEYWORDS: faith christianity
 
-+ The Tapestry of Truth :: [[https://mullikine.github.io/posts/the-tapestry-of-truth/][The Tapestry of Truth // Bodacious Blog]]
+## Which commandments should I follow to come to a belief in God? {#which-commandments-should-i-follow-to-come-to-a-belief-in-god}
 
-** Which commandments should I follow to come to a belief in God?
 I have had 'do not bear false witness' on my mind.
 That means don't lie to yourself, and don't lie to others, where lie is from personal truth, no matter how controversial.
 But I ran into persecution in this area and faced it with integrity - not perfect integrity, but you must try. We are challenged and tested in this life, through our circumstances.
@@ -20,7 +20,9 @@ I try to be as honest as possible and follow Christ's commandments without cheat
 Try to be as much like Christ as you can.
 Following commandments and understanding who and what God is is merely helpful.
 
-*** It is a free gift, not a commandment
+
+### It is a free gift, not a commandment {#it-is-a-free-gift-not-a-commandment}
+
 This is the canonical way and most objectively correct method.
 You need a contrite heart. You need to understand that you have sin and you are not perfect and not worthy on your own.
 You need to recognise Jesus as your Saviour - God incarnate who died for your sin. This is not condemning you for sin.
@@ -37,8 +39,10 @@ Our hope is in Jesus, because we do not know all of our own sin. When he died he
 But that's why Jesus came, to give us a chance. The Good News is that Jesus succeeded already.
 Our hope still rests with Him.
 
-** Having your spirit saved on the Tapestry of Truth and escape the matrix
-=Instructions and a prayer=
+
+## Having your spirit saved on the Tapestry of Truth and escape the matrix {#having-your-spirit-saved-on-the-tapestry-of-truth-and-escape-the-matrix}
+
+`Instructions and a prayer`
 
 You need to become made of Truth. The only way
 to do this is with a contrite heart, humble
@@ -173,12 +177,12 @@ You do not need to worry again in life.
 But to know the God of Truth you must follow his commandments to understand. When you understand you can ask Him for anything.
 You must continue to worship Truth itself and abide by His commands set forth in provenience.
 
-#+BEGIN_SRC text -n :async :results verbatim code
-  That if you confess with your mouth, "Jesus is Lord," and believe in your heart
-  that God raised him from the dead, you will be saved. For it is with your heart
-  that you believe and are justified, and it is with your mouth that you confess
-  and are saved.
-#+END_SRC
+{{< highlight text "linenos=table, linenostart=1" >}}
+That if you confess with your mouth, "Jesus is Lord," and believe in your heart
+that God raised him from the dead, you will be saved. For it is with your heart
+that you believe and are justified, and it is with your mouth that you confess
+and are saved.
+{{< /highlight >}}
 
 Once you acknowledge your personal identity you are in
 a place of integrity and ready to confess to
