@@ -37,6 +37,17 @@ inaugurated for us through the veil, that is,
 His [torn] flesh
 {{< /highlight >}}
 
+With the enlightened vesture (light body), I
+entered the bridal chamber.
+
+This experience (part 1), meeting Jesus, was the door.
+More abstractly, Jesus is the door.
+
+[Part 2](https://mullikine.github.io/posts/astral-projection-pt-2/) is the Holy of Holies, I believe, or it is perhaps still within the bridal chamber.
+
+[John 14:6](https://biblehub.com/john/14-6.htm)
+: Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.
+
 
 ## So this just happened <span class="timestamp-wrapper"><span class="timestamp">&lt;2022-04-02 Sat&gt;</span></span> {#so-this-just-happened}
 
