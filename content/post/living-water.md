@@ -13,6 +13,8 @@ you are an eternal spirit - [but how?](https://mullikine.github.io/posts/the-tap
 
 -   [John 7:38-](https://www.biblegateway.com/passage/?search=John%207%3A38&version=NIV) “He who believes in Me, as the Scripture said, ‘From his innermost being will flow rivers of living water.’ ”
 
+-   9 That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. 10 For with the heart man bbelieveth unto righteousness; and with the mouth confession is made unto salvation.
+
 When you've seen God with spiritual eyes, a spring of living water is planted in the soul, gushing up to eternal life.
 
 [Thomas 59](http://www.earlychristianwritings.com/thomas/gospelthomas59.html)
@@ -96,6 +98,8 @@ Water on white is the depiction of the Water of Life.
 `Carl Jung (1913)`
 : A truth is a truth, when it works. That is how we know the truth: the truth is that which helps us to live – to live properly.
 
+However, more important than merely working, Truth itself is Agape Love; Empathy and Compassion, and the longing to tell people that God loves them.
+
 
 ## Preparing the heart {#preparing-the-heart}
 
@@ -113,7 +117,9 @@ If you sin but then genuinely follow Jesus' voice agian, it feels like Jesus pus
 
 ### Vedhaantha (Hinduism) {#vedhaantha--hinduism}
 
-The teachings of Sri Sathya Sai (Indian guru) point to integrity bringing forth bliss, truth and joy.
+The teachings of Sri Sathya Sai (Indian guru)
+point to integrity bringing forth bliss, truth
+and joy.
 
 I agree, it is more than this, read on.
 
@@ -123,7 +129,15 @@ for that matter.
 
 To have this a person must walk in their truth and external actions must reflect the inside.
 
--   <https://mullikine.github.io/posts/living-water/>
+The truth is that there is only one God, and other so-called Gods are distractions.
+
+[1 Corinthians 8](https://biblehub.com/bsb/1%5Fcorinthians/8.htm)
+: We know that an idol is nothing at all in the world, and that there is no God but one. 5 For even if there are so-called gods, whether in heaven or on earth (as there are many so-called gods and lords), 6 yet for us there is but one God, the Father, from whom all things came and for whom we exist. And there is but one Lord, Jesus Christ, through whom all things came and through whom we exist. But not everyone has this knowledge.
+
+Nevertheless, God may be referred to by other
+names from other places and religions. What
+truly matters is the name by which your
+**heart** knows.
 
 -   Teachings of _**Sri Sathya Sai**_ - all sounds good to me:
     -   <https://www.sathyasai.org/>
@@ -682,6 +696,41 @@ To upgrade the cistern, you must make yourself into spiritual truth, and retain 
 : [The Tapestry of Truth](https://semiosis.github.io/posts/the-tapestry-of-truth/)
 
 
+## See the Truth to know the Truth, to become part of Truth {#see-the-truth-to-know-the-truth-to-become-part-of-truth}
+
+From the [Gospel of Philip](https://mullikine.github.io/posts/gospel-of-philip/):
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+Now God dips what he dips in water.
+
+It is not possible for anyone to see anything
+of the things that actually exist unless he
+becomes like them.
+
+This is not the way with man in the world: he
+sees the sun without being a sun; and he sees
+the heaven and the earth and all other things,
+but he is not these things.
+
+This is quite in keeping with the truth.
+
+But you saw something of that place, and you
+became those things.
+
+You saw the Spirit, you became spirit.
+
+You saw Christ, you became Christ.
+
+You saw the Father, you shall become Father.
+{{< /highlight >}}
+
+`Clarification:`
+
+-   You saw the Spirit, you became spiritual.
+-   You saw Christ, you become a 'son of God', like Christ.
+-   You saw the Father, you shall become [part of] the Father.
+
+
 ## Knowing who God is {#knowing-who-god-is}
 
 I think that putting on immortality is like making your heart pure and 'seeing God'.
@@ -745,3 +794,50 @@ have the capacity to understand or believe
 anything beyond the material world ([Isaiah 55:8–9](https://www.biblegateway.com/passage/?search=Isaiah%2055%3A8-9&version=NIV)).
 
 Faithfulness is a very true type of love.
+
+
+## The knowledge of Truth {#the-knowledge-of-truth}
+
+
+### Unable to be grasped by untrustworthy and unfaithful people! {#unable-to-be-grasped-by-untrustworthy-and-unfaithful-people}
+
+People who are disconnected from `Truth` / `agape Love`:
+
+-   lovers of their own selves
+-   false accusers
+-   despisers of those that are good
+-   incontinent (lacking self-restraint; uncontrolled.)
+-   lovers of pleasures more than lovers of God
+-   ...
+
+[2 Timothy 3](https://biblehub.com/kjv/2%5Ftimothy/3.htm)
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+1 This know also, that in the last days
+perilous times shall come.
+
+2 For men shall be lovers of their own selves,
+covetous, boasters, proud, blasphemers,
+disobedient to parents, unthankful, unholy,
+3 Without natural affection, trucebreakers,
+false accusers, incontinent, fierce, despisers
+of those that are good, 4 Traitors, heady,
+highminded, lovers of pleasures more than
+lovers of God; 5 Having a form of godliness,
+but denying the power thereof: from such turn
+away.
+
+6 For of this sort are they which creep into
+houses, and lead captive silly women laden
+with sins, led away with divers lusts, 7 Ever
+learning, and never able to come to the
+knowledge of the truth.
+
+8 Now as Jannes and Jambres withstood Moses,
+so do these also resist the truth: men of
+corrupt minds, reprobate concerning the faith.
+
+9 But they shall proceed no further: for their
+folly shall be manifest unto all men, as
+theirs also was.
+{{< /highlight >}}
