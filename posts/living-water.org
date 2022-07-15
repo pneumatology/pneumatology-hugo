@@ -16,6 +16,8 @@ you are an eternal spirit - [[https://mullikine.github.io/posts/the-tapestry-of-
 
 + [[https://www.biblegateway.com/passage/?search=John%207%3A38&version=NIV][John 7:38-]] “He who believes in Me, as the Scripture said, ‘From his innermost being will flow rivers of living water.’ ”
 
++ The cornerstone (most important part) of the gospel: [[https://www.biblegateway.com/passage/?search=Romans+10%3A9-10&version=NIV][Romans 10:9-10]] :: 9 That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. 10 For with the heart man bbelieveth unto righteousness; and with the mouth confession is made unto salvation.
+
 When you've seen God with spiritual eyes, a spring of living water is planted in the soul, gushing up to eternal life.
 
 + [[http://www.earlychristianwritings.com/thomas/gospelthomas59.html][Thomas 59]] :: (59) Jesus said, "Look at the living one while you are alive, lest you die and seek to see him but are not able to do so."
@@ -87,6 +89,8 @@ Water on white is the depiction of the Water of Life.
 
 + =Carl Jung (1913)= :: A truth is a truth, when it works. That is how we know the truth: the truth is that which helps us to live – to live properly.
 
+However, more important than merely working, Truth itself is Agape Love; Empathy and Compassion, and the longing to tell people that God loves them.
+
 ** Preparing the heart
 *** Plato
 Eternal Truth may be as intractable as [[https://en.wikipedia.org/wiki/Theory_of_forms][Plato's ideal forms]] to most people.
@@ -98,7 +102,9 @@ has Jesus' Truth added to it, -to correct your internal alethiometer which perce
 If you sin but then genuinely follow Jesus' voice agian, it feels like Jesus pushes back on you.
 
 *** Vedhaantha (Hinduism)
-The teachings of Sri Sathya Sai (Indian guru) point to integrity bringing forth bliss, truth and joy.
+The teachings of Sri Sathya Sai (Indian guru)
+point to integrity bringing forth bliss, truth
+and joy.
 
 I agree, it is more than this, read on.
 
@@ -108,7 +114,14 @@ for that matter.
 
 To have this a person must walk in their truth and external actions must reflect the inside.
 
-- https://mullikine.github.io/posts/living-water/
+The truth is that there is only one God, and other so-called Gods are distractions.
+
++ [[https://biblehub.com/bsb/1_corinthians/8.htm][1 Corinthians 8]] :: We know that an idol is nothing at all in the world, and that there is no God but one. 5 For even if there are so-called gods, whether in heaven or on earth (as there are many so-called gods and lords), 6 yet for us there is but one God, the Father, from whom all things came and for whom we exist. And there is but one Lord, Jesus Christ, through whom all things came and through whom we exist. But not everyone has this knowledge.
+
+Nevertheless, God may be referred to by other
+names from other places and religions. What
+truly matters is the name by which your
+*heart* knows.
 
 - Teachings of /*Sri Sathya Sai*/ - all sounds good to me:
   - https://www.sathyasai.org/
@@ -125,11 +138,11 @@ temple in which the [[https://www.sssbpt.info/ssspeaks/volume15/sss15-35.pdf][et
 
 #+BEGIN_SRC text -n :async :results verbatim code
   The Veda is dualistic. Vedhaantha is monistic (Adhvaitha).
-  
+
   The essence of Vedhaantha is the triune unity of thought, word and deed. In this unity, true bliss can be experienced.
-  
+
   It will also demonstrate the spiritual basis of divinity.
-  
+
   All study of Vedhaantha is of no avail if the precepts are not practised.
 #+END_SRC
 
@@ -225,8 +238,8 @@ When you're being true, your soul finds rest.
 
 *** Ode 12
 #+BEGIN_SRC text -n :async :results verbatim code
-  For the dwelling place of the Word is man, and His truth is love. 
-  Blessed are they who by means of Him have perceived everything, and have known the Lord in His truth. 
+  For the dwelling place of the Word is man, and His truth is love.
+  Blessed are they who by means of Him have perceived everything, and have known the Lord in His truth.
 #+END_SRC
 
 *** [[http://gnosis.org/naghamm/bookt.html][Book of Thomas the Contender]] (Jude Thomas, missionary to India)
@@ -254,16 +267,16 @@ more easily.
 *** John 4:4–26
 #+BEGIN_SRC text -n :async :results verbatim code
   But he had to go through Samaria.
-  
+
   So he came to a Samaritan city called Sychar,
   near the plot of ground that Jacob had given
   to his son Joseph.
-  
+
   Jacob's well was there, and Jesus, tired out
   by his journey, was sitting by the well.
-  
+
   It was about noon.
-  
+
   A Samaritan woman came to draw water, and
   Jesus said to her, "Give me a drink." (His
   disciples had gone to the city to buy food.)
@@ -276,7 +289,7 @@ more easily.
   have asked him, and he would have given you
   living water." The woman said to him, "Sir,
   you have no bucket, and the well is deep.
-  
+
   Where do you get that living water? Are you
   greater than our ancestor Jacob, who gave us
   the well, and with his sons and his flocks
@@ -284,7 +297,7 @@ more easily.
   who drinks of this water will be thirsty
   again, but those who drink of the water that I
   will give them will never be thirsty.
-  
+
   The water that I will give will become in them
   a spring of water gushing up to eternal life."
   The woman said to him, "Sir, give me this
@@ -296,30 +309,30 @@ more easily.
   saying, 'I have no husband'; for you have had
   five husbands, and the man you are now living
   with is not your husband.
-  
+
   What you have said is true!" The woman said to
   him, "Sir, I see that you are a prophet.
-  
+
   Our ancestors worshipped on this mountain, but
   you say that the place where people must
   worship is in Jerusalem." Jesus said to her,
   "Woman, believe me, the hour is coming when
   you will worship the Father neither on this
   mountain nor in Jerusalem.
-  
+
   You worship what you do not know; we worship
   what we know, for salvation is from the Jews.
-  
+
   But the hour is coming, and is now here, when
   the true worshippers will worship the Father
   in spirit and truth, for the Father seeks such
   as these to worship him.
-  
+
   God is spirit, and those who worship him must
   worship in spirit and truth." The woman said
   to him, "I know that Messiah is coming" (who
   is called Christ).
-  
+
   "When he comes, he will proclaim all things to
   us." Jesus said to her, "I am he, the one who
   is speaking to you."
@@ -571,11 +584,11 @@ Truthful), and drink!
       inability of the finite mind (and its
       tool, language) to comprehend or express
       the infinite.
-  
+
       Wisdom is always taste (in both Latin and
       Hebrew), the word for wisdom comes from
       the word for taste.
-  
+
       Wisdom is something to taste, not
       something to theorize about.
 #+END_SRC
@@ -596,20 +609,20 @@ The treasure you save for the right person, or to God.
 Others (normal people; faithless), who's hearts are themselves full of
 adultery, trick you into giving up and relinquishing this treasure.
 
-#+BEGIN_SRC text -n :async :results verbatim code  
-  15 Drink waters out of thine own cistern, and running waters out of thine own well. 
-  16 Let thy fountains be dispersed abroad, and rivers of waters in the streets. 
-  17 Let them be only thine own, and not strangers' with thee. 
-  18 Let thy fountain be blessed: and rejoice with the wife of thy youth. 
-  19 Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love. 
-  20 And why wilt thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger? 
-  21 For the ways of man are before the eyes of the Lord, and he pondereth all his goings. 
-  22 His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins. 
-  23 He shall die without instruction; and in the greatness of his folly he shall go astray. 
+#+BEGIN_SRC text -n :async :results verbatim code
+  15 Drink waters out of thine own cistern, and running waters out of thine own well.
+  16 Let thy fountains be dispersed abroad, and rivers of waters in the streets.
+  17 Let them be only thine own, and not strangers' with thee.
+  18 Let thy fountain be blessed: and rejoice with the wife of thy youth.
+  19 Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.
+  20 And why wilt thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger?
+  21 For the ways of man are before the eyes of the Lord, and he pondereth all his goings.
+  22 His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.
+  23 He shall die without instruction; and in the greatness of his folly he shall go astray.
 #+END_SRC
 
 More importantly than mere marriage, I believe the cistern represents the *truth* of your source of truth and joy.
-At all times be faithful to it. 
+At all times be faithful to it.
 Your personal truth is not for other people to trample over and rewrite. Do not share with others in this way.
 And no matter what, with what spring of truth is given to you, you must drink from this cistern and not other people's.
 To drink from another's cistern is to corrupt yourself.
@@ -622,6 +635,39 @@ person's truth and joy. This is where the
 Living Spring is planted.
 
 + To upgrade the cistern, you must make yourself into spiritual truth, and retain it through the Holy Spirit :: [[https://semiosis.github.io/posts/the-tapestry-of-truth/][The Tapestry of Truth]]
+
+** See the Truth to know the Truth, to become part of Truth
+From the [[https://mullikine.github.io/posts/gospel-of-philip/][Gospel of Philip]]:
+
+#+BEGIN_SRC text -n :async :results verbatim code
+    Now God dips what he dips in water.
+  
+    It is not possible for anyone to see anything
+    of the things that actually exist unless he
+    becomes like them.
+  
+    This is not the way with man in the world: he
+    sees the sun without being a sun; and he sees
+    the heaven and the earth and all other things,
+    but he is not these things.
+  
+    This is quite in keeping with the truth.
+  
+    But you saw something of that place, and you
+    became those things.
+  
+    You saw the Spirit, you became spirit.
+  
+    You saw Christ, you became Christ.
+  
+    You saw the Father, you shall become Father.
+#+END_SRC
+
+=Clarification:=
+
+- You saw the Spirit, you became spiritual.
+- You saw Christ, you become a 'son of God', like Christ.  
+- You saw the Father, you shall become [part of] the Father.
 
 ** Knowing who God is
 I think that putting on immortality is like making your heart pure and 'seeing God'.
@@ -677,3 +723,46 @@ have the capacity to understand or believe
 anything beyond the material world ([[https://www.biblegateway.com/passage/?search=Isaiah%2055%3A8-9&version=NIV][Isaiah 55:8–9]]).
 
 Faithfulness is a very true type of love.
+
+** The knowledge of Truth
+*** Unable to be grasped by untrustworthy and unfaithful people!
+
+People who are disconnected from =Truth= / =agape Love=:
+- lovers of their own selves
+- false accusers
+- despisers of those that are good
+- incontinent (lacking self-restraint; uncontrolled.)
+- lovers of pleasures more than lovers of God
+- ...
+
+[[https://biblehub.com/kjv/2_timothy/3.htm][2 Timothy 3]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  1 This know also, that in the last days
+  perilous times shall come.
+
+  2 For men shall be lovers of their own selves,
+  covetous, boasters, proud, blasphemers,
+  disobedient to parents, unthankful, unholy,
+  3 Without natural affection, trucebreakers,
+  false accusers, incontinent, fierce, despisers
+  of those that are good, 4 Traitors, heady,
+  highminded, lovers of pleasures more than
+  lovers of God; 5 Having a form of godliness,
+  but denying the power thereof: from such turn
+  away.
+
+  6 For of this sort are they which creep into
+  houses, and lead captive silly women laden
+  with sins, led away with divers lusts, 7 Ever
+  learning, and never able to come to the
+  knowledge of the truth.
+
+  8 Now as Jannes and Jambres withstood Moses,
+  so do these also resist the truth: men of
+  corrupt minds, reprobate concerning the faith.
+
+  9 But they shall proceed no further: for their
+  folly shall be manifest unto all men, as
+  theirs also was.
+#+END_SRC
