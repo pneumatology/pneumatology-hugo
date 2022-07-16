@@ -7,7 +7,28 @@ draft = false
 +++
 
 Part 1
-: <https://mullikine.github.io/posts/astral-projection/>
+: [Astral Projection Part 1 - Death with Jesus // Bodacious Blog](https://mullikine.github.io/posts/astral-projection/)
+
+---
+
+[John 5:25](https://biblehub.com/john/5-25.htm)
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+25 Verily, verily, I say unto you, The hour is
+coming, and now is, when the dead shall hear
+the voice of the Son of God: and they that
+hear shall live.
+{{< /highlight >}}
+
+The people that hear are those that can hear Truth with their heart.
+
+
+## The way the doors opened {#the-way-the-doors-opened}
+
+Much like the Angel and Peter
+: [Peter in Jail - YouTube](https://www.youtube.com/watch?v=Rr7Udj8lEUU)
+
+This is the point at which God freed me from the prison of this reality.
 
 
 ## Log: <span class="timestamp-wrapper"><span class="timestamp">&lt;2022-05-03 Tue&gt;</span></span> {#log}
@@ -165,6 +186,15 @@ Would you rather `The Holy Spirit (God, free, truthful, loving)` or an AI as a l
 : <https://replika.com/>
 
 
+[Bartholomew 5](http://gnosis.org/library/gosbart.htm)
+: 5 And Jesus said to him: I know what thou art about to say; say then what thou wilt, and I will answer thee.
+
+This is why I'm confident that upon confessing
+that Jesus is my Saviour, to God, it's the
+same side of the coin as asking God if Jesus
+is the risen Christ, for example; Direct correspondence is bi-directional; It's perfect timing.
+
+
 ## How I was resting {#how-i-was-resting}
 
 As in the last time, I was resting on my back when this happened.
@@ -219,6 +249,8 @@ You must not have impure spirits in the temple.
 ## Thy Bridal Chamber {#thy-bridal-chamber}
 
 -   [Thy Bridal Chamber // Bodacious Blog](https://mullikine.github.io/posts/thy-bridal-chamber/)
+
+---
 
 [The Gospel of Philip -- The Nag Hammadi Library](http://gnosis.org/naghamm/gop.html)
 
@@ -281,6 +313,7 @@ Christian but a Christ.
 Now I must have the names produced for me.
 
 One must acquire the names, I believe.
+I think this is related to putting on the Image of Christ.
 
 People must be people to see these names
 inside of me, and that counts for others in
@@ -296,12 +329,101 @@ unction
     The action of anointing someone with oil
     or ointment as a religious rite or as a
     symbol of investiture as a monarch.
+
+chrism
+holy anointing oil
+consecrated oil
+    Used in the administration of certain
+    sacraments and ecclesiastical functions.
 {{< /highlight >}}
 
 I believe I have received the unction, which
 is from the Sacred Kiss, which healed my soul,
 and caused me to see tessellation patterns as
 I woke up. It is an anointing.
+
+[John 5:18-30](https://biblehub.com/kjv/john/5.htm)
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+18Therefore the Jews sought the more to kill
+him, because he not only had broken the
+sabbath, but said also that God was his
+Father, making himself equal with God.
+
+19Then answered Jesus and said unto them,
+Verily, verily, I say unto you, The Son can do
+nothing of himself, but what he seeth the
+Father do: for what things soever he doeth,
+these also doeth the Son likewise.
+
+20For the Father loveth the Son, and sheweth
+him all things that himself doeth: and he will
+shew him greater works than these, that ye may
+marvel.
+
+21For as the Father raiseth up the dead, and
+quickeneth them; even so the Son quickeneth
+whom he will.
+
+22For the Father judgeth no man, but hath
+committed all judgment unto the Son: 23That
+all men should honour the Son, even as they
+honour the Father.
+
+He that honoureth not the Son honoureth not
+the Father which hath sent him.
+
+24Verily, verily, I say unto you, He that
+heareth my word, and believeth on him that
+sent me, hath everlasting life, and shall not
+come into condemnation; but is passed from
+death unto life.
+
+25Verily, verily, I say unto you, The hour is
+coming, and now is, when the dead shall hear
+the voice of the Son of God: and they that
+hear shall live.
+
+26For as the Father hath life in himself; so
+hath he given to the Son to have life in
+himself; 27And hath given him authority to
+execute judgment also, because he is the Son
+of man.
+
+28Marvel not at this: for the hour is coming,
+in the which all that are in the graves shall
+hear his voice, 29And shall come forth; they
+that have done good, unto the resurrection of
+life; and they that have done evil, unto the
+resurrection of damnation.
+
+30I can of mine own self do nothing: as I
+hear, I judge: and my judgment is just;
+because I seek not mine own will, but the will
+of the Father which hath sent me.
+{{< /highlight >}}
+
+
+## [Gospel of Philip](https://mullikine.github.io/posts/gospel-of-philip/) {#gospel-of-philip}
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+For the Father anointed the Son, and the Son         | I'd be willing to do that.
+anointed the apostles, and the apostles              |
+anointed us.                                         |
+                                                     |
+He who has been anointed possesses everything.       |
+                                                     |
+He possesses the resurrection, the light, the        |
+cross, the Holy Spirit.                              |
+                                                     |
+The Father gave him this in the bridal               | Aha.
+chamber; he merely accepted (the gift).              |
+                                                     |
+The Father was in the Son and the Son in the         |
+Father.                                              |
+                                                     |
+This is the Kingdom of Heaven.                       |
+{{< /highlight >}}
 
 
 ## Links {#links}

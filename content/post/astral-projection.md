@@ -2,9 +2,13 @@
 title = "Astral Projection Part 1 - Death with Jesus"
 author = ["Shane Mulligan"]
 date = 2022-04-02T00:00:00+13:00
-keywords = ["astral"]
+keywords = ["astral", "faith"]
 draft = false
 +++
+
+[Galatians 6-17](https://biblehub.com/galatians/6-17.htm)
+: From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.
+
 
 ### This, I now know to be the enlightened vesture of my soul  <span class="timestamp-wrapper"><span class="timestamp">&lt;2022-06-29 Wed&gt;</span></span> {#this-i-now-know-to-be-the-enlightened-vesture-of-my-soul}
 
@@ -40,13 +44,40 @@ His [torn] flesh
 With the enlightened vesture (light body), I
 entered the bridal chamber.
 
+[2 Enoch 22:8-10](http://www.pseudepigrapha.com/pseudepigrapha/enochs2.htm)
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+8 And the Lord said to Michael: Go and take
+Enoch from out (of) his earthly garments, and
+anoint him with my sweet ointment, and put him
+into the garments of My glory.
+
+9 And Michael did thus, as the Lord told him.
+He anointed me, and dressed me, and the
+appearance of that ointment is more than the
+great light, and his ointment is like sweet
+dew, and its smell mild, shining like the
+sun’s ray, and I looked at myself, and (I) was
+like (transfigured) one of his glorious ones.
+{{< /highlight >}}
+
+-   [{PDF} Eternal  Marriage or Marriage in the Resurrection | David R Werden - Academia.edu](https://www.academia.edu/8286632/Eternal%5FMarriage%5For%5FMarriage%5Fin%5Fthe%5FResurrection)
+
 This experience (part 1), meeting Jesus, was the door.
 More abstractly, Jesus is the door.
 
 [Part 2](https://mullikine.github.io/posts/astral-projection-pt-2/) is the Holy of Holies, I believe, or it is perhaps still within the bridal chamber.
 
+I don't know. I could see literally nothing the second time.
+
 [John 14:6](https://biblehub.com/john/14-6.htm)
 : Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.
+
+
+[Gospel of Philip](https://mullikine.github.io/posts/gospel-of-philip/)
+: This is the way it is: it is revealed to him alone, not hidden in the darkness and the night, but hidden in a perfect day and a holy light.
+
+I can confirm it was revealed to me in a perfect day!
 
 
 ## So this just happened <span class="timestamp-wrapper"><span class="timestamp">&lt;2022-04-02 Sat&gt;</span></span> {#so-this-just-happened}

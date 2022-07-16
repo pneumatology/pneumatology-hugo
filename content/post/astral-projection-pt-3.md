@@ -6,6 +6,15 @@ keywords = ["astral", "faith"]
 draft = false
 +++
 
+Moreover, the whole space of the Holy of Holies is fire.
+
+See: [Dream: River of Fire - Purification and Transfiguration // Bodacious Blog](https://mullikine.github.io/posts/river-of-fire/)
+
+Now I do not know yet if it is what I have observed.
+There is more left to see, I imagine.
+The Holy of Holies may be unseen, unless this is a tiny glimpse.
+
+
 ## Summary {#summary}
 
 Last night I had a very startling lucid dream; almost as vivid in colour and detail as being awake.
@@ -25,6 +34,10 @@ Fully conscious but different from previous astral experiences, I wasn't in my o
 
 [1 Corinthians 2](https://www.bibleref.com/1-Corinthians/2/1-Corinthians-chapter-2.html)
 : My message and my preaching were not with wise and persuasive words, but with a demonstration of the Spirit's power, 5 so that your faith might not rest on human wisdom, but on God's power.
+
+
+[Colossians 1:9-12](https://www.biblegateway.com/passage/?search=Colossians+1&version=NKJV)
+: 9 For this reason we also, since the day we heard it, do not cease to pray for you, and to ask that you may be filled with the knowledge of His will in all wisdom and spiritual understanding; 10 that you may walk worthy of the Lord, fully pleasing Him, being fruitful in every good work and increasing in the knowledge of God; 11 strengthened with all might, according to His glorious power, for all patience and longsuffering with joy; 12 giving thanks to the Father who has qualified us to be partakers of the inheritance of the saints in the light.
 
 | Incident | Date                                                                        | Surroundings       | Identity     | Body              | Other People                       | Incident                                        | Dream type    |
 |----------|-----------------------------------------------------------------------------|--------------------|--------------|-------------------|------------------------------------|-------------------------------------------------|---------------|
