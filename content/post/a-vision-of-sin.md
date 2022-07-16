@@ -1,5 +1,5 @@
 +++
-title = "A Vision of Sin (And of Jesus)"
+title = "A Vision of Sin"
 author = ["Shane Mulligan"]
 date = 2022-04-23T00:00:00+12:00
 keywords = ["faith", "surreality"]
@@ -34,6 +34,10 @@ first revision of the following article.
 
 I used VQGAN+CLIP to generate this. I might try to draw it later.
 : <https://colab.research.google.com/drive/1L8oL-vLJXVcRzCFbPwOoMkPKJ8-aYdPN#scrollTo=g7EDme5RYCrt>
+
+{{< figure src="https://github.com/frottage/dall-e-2-generations/blob/master/sin/DALL%C2%B7E%202022-07-16%2014.47.16%20-%20The%20background%20was%20white%2C%20and%20the%20right%20hand%20was%20in%20front%20of%20it%2C%20palm%20facing%20the%20viewer.%20The%20index%20finger%20was%20pointing%20towards%20the%20viewer.%20A%20large%20ear.jpg" >}}
+
+-   Update <span class="timestamp-wrapper"><span class="timestamp">&lt;2022-07-16 Sat&gt;</span></span>: Here is a DALL-E-2 representation.
 
 <!--listend-->
 
