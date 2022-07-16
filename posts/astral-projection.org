@@ -7,7 +7,9 @@
 #+TITLE: Astral Projection Part 1 - Death with Jesus
 #+DATE: <2022-04-02>
 #+AUTHOR: Shane Mulligan
-#+KEYWORDS: astral
+#+KEYWORDS: astral faith
+
++ [[https://biblehub.com/galatians/6-17.htm][Galatians 6-17]] :: From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.
 
 ** This, I now know to be the enlightened vesture of my soul  <2022-06-29 Wed>
 
@@ -40,12 +42,37 @@
 With the enlightened vesture (light body), I
 entered the bridal chamber.
 
+[[http://www.pseudepigrapha.com/pseudepigrapha/enochs2.htm][2 Enoch 22:8-10]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  8 And the Lord said to Michael: Go and take
+  Enoch from out (of) his earthly garments, and
+  anoint him with my sweet ointment, and put him
+  into the garments of My glory.
+  
+  9 And Michael did thus, as the Lord told him.
+  He anointed me, and dressed me, and the
+  appearance of that ointment is more than the
+  great light, and his ointment is like sweet
+  dew, and its smell mild, shining like the
+  sun’s ray, and I looked at myself, and (I) was
+  like (transfigured) one of his glorious ones.
+#+END_SRC
+
+- [[https://www.academia.edu/8286632/Eternal_Marriage_or_Marriage_in_the_Resurrection][{PDF} Eternal  Marriage or Marriage in the Resurrection | David R Werden - Academia.edu]]
+
 This experience (part 1), meeting Jesus, was the door.
 More abstractly, Jesus is the door.
 
 [[https://mullikine.github.io/posts/astral-projection-pt-2/][Part 2]] is the Holy of Holies, I believe, or it is perhaps still within the bridal chamber.
 
+I don't know. I could see literally nothing the second time.
+
 + [[https://biblehub.com/john/14-6.htm][John 14:6]] :: Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.
+
++ [[https://mullikine.github.io/posts/gospel-of-philip/][Gospel of Philip]] :: This is the way it is: it is revealed to him alone, not hidden in the darkness and the night, but hidden in a perfect day and a holy light.
+
+I can confirm it was revealed to me in a perfect day!
 
 * So this just happened <2022-04-02 Sat>
 ** This first event with the hovering body may have happened last night
