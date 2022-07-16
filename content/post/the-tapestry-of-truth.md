@@ -41,21 +41,23 @@ following God's commandments from the heart
 (for the purpose of understanding God),
 subsequently arriving at knowledge of God, and
 then personally
-[meeting God](https://mullikine.github.io/posts/astral-projection-pt-3/).
+[meeting God's Holy Spirit](https://mullikine.github.io/posts/astral-projection-pt-3/).
 Now the world seems to be getting more [sur-real](https://mullikine.github.io/posts/describing-melee-s-paintings-with-alephalpha/) after finding God.
 
-Jesus's [gospel](https://mullikine.github.io/posts/gospel-of-jesus/) is the cornerstone for any
-person's testimony, including my own, and this
-is an explanation:
+Jesus is the cornerstone of the Kingdom of Light.
+Jesus's [gospel](https://mullikine.github.io/posts/gospel-of-jesus/) is the basis for any
+true apostle's testimony, including my own.
+
+Jesus's gospel:
 
 [Romans 10:9-10](https://www.biblegateway.com/passage/?search=Romans+10%3A9-10&version=NIV)
-: 9 That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. 10 For with the heart man bbelieveth unto righteousness; and with the mouth confession is made unto salvation.
+: 9 That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. 10 For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.
 
 My own testimony, which follows demonstrates how I came to understand that Jesus saved me, through His death and resurrection by God the Father, and saving me from lies, which had prevented me from knowing who God is.
 
-First read [Gospel of Jesus](https://mullikine.github.io/posts/gospel-of-jesus/) then understand that this is my revelation, not a replacement of the gospel.
+First read [Gospel of Jesus](https://mullikine.github.io/posts/gospel-of-jesus/) then understand that what follows is my revelation, not a replacement of the gospel.
 
-No other gospel than the Gospel of Jesus
+There is no other gospel than the Gospel of Jesus
 : [Galatians 1](https://www.biblegateway.com/passage/?search=Galatians+1&version=NIV)
 
 <!--listend-->
