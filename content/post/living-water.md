@@ -6,6 +6,11 @@ keywords = ["faith", "melee"]
 draft = false
 +++
 
+First read [Gospel of Jesus](https://mullikine.github.io/posts/gospel-of-jesus/) then understand that this is part of my revelation, not a replacement of the gospel.
+
+No other gospel than the Gospel of Jesus
+: [Galatians 1](https://www.biblegateway.com/passage/?search=Galatians+1&version=NIV)
+
 God is Truth -- of the spiritual type.
 If your heart is True and pure
 then you can see God, you are a child of God and
