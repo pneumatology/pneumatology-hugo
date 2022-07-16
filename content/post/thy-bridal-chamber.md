@@ -2,11 +2,68 @@
 title = "Thy Bridal Chamber"
 author = ["Shane Mulligan"]
 date = 2022-06-29T00:00:00+12:00
-keywords = ["faith", "christianity"]
+keywords = ["faith", "christianity", "gnostic"]
 draft = false
 +++
 
-## Summary {#summary}
+These were spontaneous and God-given experiences over Easter 2022.
+
+[2 Corinthians 11](https://www.biblegateway.com/passage/?search=2%20Corinthians%2011&version=NIV)
+: I promised you to one husband, to Christ, so that I might present you as a pure virgin to him.
+
+--
+
+-   [Astral Projection Part 1 - Death with Jesus // Bodacious Blog](https://mullikine.github.io/posts/astral-projection/)
+-   [Astral Projection Part 2 - Sacred Kiss, Healing, Resurrection // Bodacious Blog](https://mullikine.github.io/posts/astral-projection-pt-2/)
+-   [Astral Projection Part 3 - The Images // Bodacious Blog](https://mullikine.github.io/posts/astral-projection-pt-3/)
+
+
+## [Hebrews 10:19-25](https://www.bible.com/bible/compare/HEB.10.19-25) {#hebrews-10-19-25}
+
+Be sincere, meek, loving and facetious, but
+above all things `True`. In everything be
+`True` - just be like Jesus and you will be
+ready. God will allow you to enter the Bridal
+Chamber. Seek Jesus like Children, and
+boldness will come from sincerity.
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+19 Therefore, brethren, having boldness 6 to
+enter the Holiest by the blood of Jesus, 20
+by a new and oliving way which He consecrated
+for us, through the veil, that is, His flesh,
+21 and having a High Priest over the house of
+God, 22 let us pdraw near with a true heart
+qin full assurance of faith, having our hearts
+sprinkled from an evil conscience and our
+bodies washed with pure water. 23 Let us hold
+fast the confession of our hope without
+wavering, for He who promised is faithful. 24
+And let us consider one another in order to
+stir up love and good works, 25 not forsaking
+the assembling of ourselves together, as is
+the manner of some, but exhorting one another,
+and tso much the more as you see uthe Day
+approaching.
+{{< /highlight >}}
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+The males are they which unite with the souls
+which inhabit a female form, but the females
+are they which are mingled with those in a
+male form, though one who was disobedient.
+
+And none shall be able to escape them, since
+they detain him if he does not receive a male
+power or a female power, the bridegroom and
+the bride.
+
+One receives them from the mirrored bridal
+chamber.
+{{< /highlight >}}
+
+
+## Vesture of my soul {#vesture-of-my-soul}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 Thy bridal chamber I see adorned, O my Savior,
@@ -14,10 +71,18 @@ and I have no wedding garment that I may enter.
 O Giver of Light, enlighten the vesture of my soul, and save me.
 {{< /highlight >}}
 
+
+## [Gospel of Philip](http://gnosis.org/naghamm/gop.html) {#gospel-of-philip}
+
 [Gospel of Philip](http://gnosis.org/naghamm/gop.html)
 : A bridal chamber is not for the animals, nor is it for the slaves, nor for defiled women; but it is for free men and virgins.
 
-[The Gospel of Philip -- The Nag Hammadi Library](http://gnosis.org/naghamm/gop.html)
+---
+
+-   [The Gospel of Philip -- The Nag Hammadi Library](http://gnosis.org/naghamm/gop.html)
+
+The homology of the physical temple to the
+temple of your heart.
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 There were three buildings specifically for
@@ -40,6 +105,8 @@ Redemption is the "Holy of the Holy".
 chamber.
 {{< /highlight >}}
 
+See: [The Five Sacraments // Bodacious Blog](https://mullikine.github.io/posts/the-five-sacraments/)
+
 {{< highlight text "linenos=table, linenostart=1" >}}
 Baptism includes the resurrection and the
 redemption; the redemption (takes place) in
@@ -61,8 +128,12 @@ upward.
 The powers do not see those who are clothed in
 the perfect light, and consequently are not
 able to detain them.
-
 {{< /highlight >}}
+
+
+## The way I slept {#the-way-i-slept}
+
+It honestly mattered, but I think it was surely predestiny.
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 One will clothe himself in this light
@@ -99,7 +170,8 @@ This is my visceral experience of the Bridal Chamber.
 -   [Astral Projection // Bodacious Blog](https://mullikine.github.io/posts/astral-projection/)
 -   [Astral Projection Pt. 2 // Bodacious Blog](https://mullikine.github.io/posts/astral-projection-pt-2/)
 
-<!--listend-->
+
+## [In the Maw of the Bridal Chamber](https://blogs.ancientfaith.com/glory2godforallthings/2020/04/13/in-the-maw-of-the-bridal-chamber/) {#in-the-maw-of-the-bridal-chamber}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 It is a hymn of deep irony and paradox.
@@ -127,7 +199,8 @@ we are healed precisely there.
 The resurrection of Christ begins in the tomb.
 {{< /highlight >}}
 
+There was no 'ceremony' that I followed.
 
-## See also {#see-also}
+Whatever happened, happened spontaneously and changed me.
 
--   [Thy Bridal Chamber](https://stelizabethorthodox.org/news/2020/4/14/i-have-no-wedding-garment)
+It's surely something of an event at a higher dimension, and a mystery, which I am confident of in retrospect.
