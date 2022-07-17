@@ -598,11 +598,14 @@ Personal|          |_ |                 \                  \    \      /    /   
                                    Jesus ---------------+                                              |_ Absolute truth
                                   The Way
 
-Sprit is a unique gemstone (a personal truth              A metaphor:
-table describing alignment to and vantage-
-point with God), through which the light of               We are gemstones hidden under sand at the beach.
-absolute truth shines and casts a hologram of             We must be out searching for people and helping them to
-soul which is your conscious experience.                  see themselves for who and what they are.
+
+Our human spirit is like a unique gemstone,
+with a personal truth table identity describing            A metaphor:
+alignment to and vantage- point with God),
+through which the light of absolute truth                  We are gemstones hidden under sand at the beach.
+shines and casts a hologram of soul which is               We must be out searching for people and helping them to
+your conscious experience.                                 see themselves for who and what they are.
+
 This projection is known as emanation.
 
 While spiritual identity is conformance to the dimensions of God's
@@ -2510,9 +2513,7 @@ But I like to also think I have bound my cat because I want to see her in heaven
 
 Truthful agreement in the heart, I think, and Jesus by representation.
 
-
-###  {#}
-
+\*\*
 Adultery, murder, etc. are a matter of the heart.
 
 `Matthew 5:28`
