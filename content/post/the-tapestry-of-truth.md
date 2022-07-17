@@ -121,8 +121,8 @@ beneath all of those things.
 
 The Aristotle soul is inseparable to the body;
 For example, the mind, which is part of soul
-is based on the body. The mind is an [organ for thought](https://www.youtube.com/watch?v=D5in5EdjhD0), and is built with neurons in the brain, for example.
-But when God's spirit is connected to the human, the mind can receive information from God!
+is based on the body. The brain is an [organ for thought](https://www.youtube.com/watch?v=D5in5EdjhD0), and the immanent part of mind is based on physical neurons in the brain, for example.
+But when God's spirit is connected to the human by His indwelling, the mind can receive information from God!
 
 But if we make our spirit truthful (compatible with God), then we can
 [invite the Holy Spirit to live within us](https://mullikine.github.io/posts/prayer-of-salvation/), and we can [tap into the mind of God](https://biblehub.com/1%5Fcorinthians/2-11.htm).
