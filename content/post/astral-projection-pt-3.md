@@ -45,6 +45,15 @@ Fully conscious but different from previous astral experiences, I wasn't in my o
 | 2        | [2022-05-03 Tue](https://mullikine.github.io/posts/astral-projection-pt-2/) | Blackness          | Myself       | Astral + Physical | Myself and one other (Holy Spirit) | Communion (Holy Spirit)                         | Astral (self) |
 | 3        | [2022-05-12 Thu](https://mullikine.github.io/posts/astral-projection-pt-3/) | Many public spaces | Holy Spirit? | Astral            | Many people                        | Love (God the Father), or Intimation of the Son | Astral (HS?)  |
 
+---
+
+[John 14](https://www.esv.org/John+14/)
+: 8 Philip said to him, “Lord, show us the Father, and it is enough for us.” 9 Jesus said to him, “Have I been with you so long, and you still do not know me, Philip? Whoever has seen me has seen the Father. How can you say, ‘Show us the Father’? 10 Do you not believe that I am in the Father and the Father is in me? The words that I say to you I do not speak on my own authority, but the Father who dwells in me does his works. 11 Believe me that I am in the Father and the Father is in me, or else wbelieve on account of the works themselves.
+
+See, that the Father's works are seen through Jesus, the Mediator.
+
+---
+
 The third one ever, but different this time in that I was experiencing from another's identity.
 
 I would be lying down in an open public space and as soon as I woke I would immediately, walk up to a person or a group of people,
