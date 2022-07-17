@@ -116,28 +116,49 @@ Your entire soul (vegetative, to sensitive, to
 rational), your entire reality from (body,
 mind and astral) is not unlike a holographic
 projection cast from shining (emanating)
-absolute truth through your spirit, which is
+absolute truth ([God's light](https://mullikine.github.io/posts/the-dimension-of-light/)) [through your spirit](https://mullikine.github.io/posts/gospel-of-philip/), which is
 beneath all of those things.
 
-See:
+The Aristotle soul is inseparable to the body;
+For example, the mind, which is part of soul
+is based on the body. The mind is an [organ for thought](https://www.youtube.com/watch?v=D5in5EdjhD0), and is built with neurons in the brain, for example.
+But when God's spirit is connected to the human, the mind can receive information from God!
 
--   [Two invisible spiritual kingdoms](https://www.youtube.com/watch?v=1NyWh8SWVWI). Our 'visible' reality is the temporary fiction.
--   [Humans are detached from reality | Donald Hoffman and Lex Fridman - YouTube](https://www.youtube.com/watch?v=nM%5FFOUCpJ3I)
+But if we make our spirit truthful (compatible with God), then we can
+[invite the Holy Spirit to live within us](https://mullikine.github.io/posts/prayer-of-salvation/), and we can [tap into the mind of God](https://biblehub.com/1%5Fcorinthians/2-11.htm).
 
-The Aristotle soul is inseparable to the body; For example, the mind, which is part of soul is based on the body.
+However, it gets more interesting than that.
 
-In short, the biblical soul to my
-understanding consists of mind and emotion -
-consciousness, and reassuringly congruent to
-the Aristotle soul.
+There is an immanent part of the human soul
+and a transcendent part (which people are not
+usually aware of), but like the Jedi becoming one with the force, this part of us persists.
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+immanence
+    [#philosophy]
+    [#theology]
+
+    The doctrine or theory of immanence holds
+    that the divine encompasses or is
+    manifested in the material world.
+
+    It is held by some philosophical and
+    metaphysical theories of divine presence.
+
+    A term applied, in contradistinction to
+    “transcendence,” to the fact or condition
+    of being entirely within something (from
+    Latin immanere, “to dwell in, remain”).
+{{< /highlight >}}
 
 -   [Ecclesiastes 12:7](https://www.biblegateway.com/passage/?search=Ecclesiastes%2012%3A7&version=KJV) - Then the dust will return to the earth as it was, and the spirit will return to God who gave it.
 
 As far as eternal life goes, the only
 guarantee is that your 'spirit' returns to
-God. I don't know about 'soul'. To my
+God. I don't know about the immanent (body) part of soul. To my
 knowledge, 'spirit' is the person's ultimate
 identity and unique view which returns to God.
+
 Literally that means much of what we
 experience in this reality we do not take with
 us, but some things we can. Anything you take
@@ -145,6 +166,10 @@ has to be made of spiritual truth, I conjecture.
 
 [1 Corinthians 15](https://biblehub.com/kjv/1%5Fcorinthians/15.htm)
 : 50 Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption.
+
+I will refer to `soul` from now on as the
+immanent part of soul, which is the mind and
+body.
 
 The _marrow_ of the soul (the most core part) is the spirit.
 
@@ -2962,6 +2987,11 @@ You must find your personal truth then understand God's truth by understanding c
 
 God's character
 : [I dreamed of Jesus Christ ... I had a dream | Jordan Peterson - YouTube](https://www.youtube.com/watch?v=gbKCt7vK%5F%5F0)
+
+---
+
+-   [Two invisible spiritual kingdoms](https://www.youtube.com/watch?v=1NyWh8SWVWI). Our 'visible' reality is the temporary fiction.
+-   [Humans are detached from reality | Donald Hoffman and Lex Fridman - YouTube](https://www.youtube.com/watch?v=nM%5FFOUCpJ3I)
 
 
 #### Some other writings of mine {#some-other-writings-of-mine}
