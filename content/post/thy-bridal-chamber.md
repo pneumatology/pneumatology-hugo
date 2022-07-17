@@ -8,6 +8,30 @@ draft = false
 
 These were spontaneous and God-given experiences over Easter 2022.
 
+According to the [Gospel of Philip](https://mullikine.github.io/posts/gospel-of-philip/), the sacrament of the Bridal Chamber is not **necessary** for redemption!
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+"Baptism is 'the holy' shrine.
+Redemption is 'holy of the holy'.
+'The holy of the holies' is the bridal chamber".
+{{< /highlight >}}
+
+Also, it's definitely possible to go sin after
+the bridal chamber - but we don't make a practice of it.
+
+Sin is not the desirable thing to do - it's far more satisfying to remain faithful!
+But it's still challenging sometimes because the world is unjust.
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+redemption
+    The action of saving or being saved from
+    sin, error, or evil.
+    "God's plans for the redemption of his
+    world"
+{{< /highlight >}}
+
+---
+
 [2 Corinthians 11](https://www.biblegateway.com/passage/?search=2%20Corinthians%2011&version=NIV)
 : I promised you to one husband, to Christ, so that I might present you as a pure virgin to him.
 
