@@ -31,12 +31,12 @@ How do you know? [You must become truth](https://mullikine.github.io/posts/the-t
 [Proverbs 4:23](https://biblehub.com/text/proverbs/4-23.htm)
 : מִֽכָּל־ _mik-kāl_ `With all` מִ֭שְׁמָר _miš-mār_ `diligence` נְצֹ֣ר _nə-ṣōr_ `keep` לִבֶּ֑ךָ _lib-be-ḵā;_ `your heart` כִּֽי־ _kî-_ `for` מִ֝מֶּ֗נּוּ _mim-men-nū,_ `out of it` תּוֹצְא֥וֹת _tō-wṣ-’ō-wṯ_ `[spring] the issues` חַיִּֽים׃ _ḥay-yîm._ `of life`.
 
-Sin makes you untruthful.
+Sin makes you untruthful. Things like slander (lies) about others and about yourself (stigmas) or your status towards others (self-exaltation).
 
 [Galatians 3:21](https://www.biblegateway.com/passage/?search=Galatians%203&version=NIV)
 : 21 Is the law, therefore, opposed to the promises of God? Absolutely not!(AJ) For if a law had been given that could impart life, then righteousness would certainly have come by the law.(AK) 22 But Scripture has locked up everything under the control of sin,(AL) so that what was promised, being given through faith in Jesus Christ, might be given to those who believe.
 
-God's children have been [reborn](https://mullikine.github.io/posts/the-tapestry-of-truth/) of the Holy Spirit.
+God's children have been [reborn](https://mullikine.github.io/posts/the-tapestry-of-truth/) of the Holy Spirit to help us remain truthful.
 
 ---
 
