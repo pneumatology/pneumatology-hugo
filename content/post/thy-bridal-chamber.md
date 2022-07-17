@@ -41,6 +41,14 @@ redemption
 -   [Astral Projection Part 2 - Sacred Kiss, Healing, Resurrection // Bodacious Blog](https://mullikine.github.io/posts/astral-projection-pt-2/)
 -   [Astral Projection Part 3 - The Images // Bodacious Blog](https://mullikine.github.io/posts/astral-projection-pt-3/)
 
+---
+
+[Gospel of Philip](https://mullikine.github.io/posts/gospel-of-philip/)
+: He said on that day in the thanksgiving, "You who have joined the [perfect light](https://mullikine.github.io/posts/astral-projection/) with the [Holy Spirit](https://mullikine.github.io/posts/astral-projection-pt-2/), unite the angels with us also, as [being the images](https://mullikine.github.io/posts/astral-projection-pt-3/)." Do not despise the lamb, for without it, it is not possible to see the king.
+
+The images could also mean the [image of the androgyne](https://mullikine.github.io/posts/dream-discernment-of-judgement/).
+It can also mean the [image of Christ](https://mullikine.github.io/posts/gospel-of-thomas/).
+
 
 ## [Hebrews 10:19-25](https://www.bible.com/bible/compare/HEB.10.19-25) {#hebrews-10-19-25}
 
