@@ -1495,7 +1495,7 @@ hoisting them up for. Hoisting is
 disbelieving in the lies about your personal
 truth which don't add up to God's commandments.
 
-`Matthew 28:19–20`
+[Matthew 28:19–20](https://www.biblegateway.com/passage/?search=Matthew%2028%3A19-20&version=NIV)
 : “Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age”
 
 
@@ -1505,6 +1505,10 @@ truth which don't add up to God's commandments.
     Likewise, I would say that by following the 10 commandments, in theory you may learn who God the Father is.
 
 This isn't merely 'bringing stigmas in prayer'.
+
+[Gospel of Philip](https://mullikine.github.io/posts/gospel-of-philip/)
+: As for ourselves, let each one of us dig down after the root of evil which is within one, and let one pluck it out of one's heart from the root. It will be plucked out if we recognize it.
+
 To hoist them up you must earnestly not
 believe the lies to the point of action and
 you feel pain when despite doing this (because
