@@ -606,7 +606,7 @@ through which the light of absolute truth                  We are gemstones hidd
 shines and casts a hologram of soul which is               We must be out searching for people and helping them to
 your conscious experience.                                 see themselves for who and what they are.
 
-This projection is known as emanation.
+This projection is called emanation.
 
 While spiritual identity is conformance to the dimensions of God's
 eminations, the belief system is constructed on top.
@@ -872,25 +872,8 @@ truth enough to continually align with the
 voice of God which is in harmony with the 10
 commandments.
 
-Perhaps it happened through the Spirit of
-Truth speaking to your heart, or an
-intervention as you are dying - because God is
-there in Sheol too, and His Spirit can be
-found there.
-
-Jesus actually
-traversed everywhere we can go, from our
-conception to death, and He is the Way, the
-rope, the ladder and will be there still when
-the world dissolves around your material eyes
-as the curtains are closing (I have hope for
-those that have taken their own life or met an
-untimely end).
-
 According to the Gospel of Phillip, the
-rebirth must happen during this life, or
-during your descent into death. Do not be a risk-taking with this;
-Be baptised by the Holy Spirit while you're alive.
+rebirth must happen during this life.
 
 [Gospel of Philip](http://gnosis.org/naghamm/gop.html)
 : Those who say they will die first and then rise are in error. If they do not first receive the resurrection while they live, when they die they will receive nothing. So also when speaking about baptism they say, "Baptism is a great thing," because if people receive it they will live.
@@ -901,6 +884,7 @@ Ashamed of themselves, people do not confront truth, thus being unable to turn t
 [Thomas 59](http://www.earlychristianwritings.com/thomas/gospelthomas59.html)
 : (59) Jesus said, "Look at the living one while you are alive, lest you die and seek to see him but are not able to do so."
 
+Be baptised by the Holy Spirit while you're alive.
 
 [John 15](https://biblehub.com/niv/john/15.htm)
 : 26 “When the Advocate comes, whom I will send to you from the Father—the Spirit of truth who goes out from the Father—he will testify about me. 27 And you also must testify, for you have been with me from the beginning.
