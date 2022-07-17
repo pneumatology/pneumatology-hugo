@@ -31,6 +31,34 @@ Much like the Angel and Peter
 This is the point at which God freed me from the prison of this reality.
 
 
+## [Gospel of Philip](https://mullikine.github.io/posts/gospel-of-philip/) {#gospel-of-philip}
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+Therefore, the perfect things have opened to
+us, together with the hidden things of truth.
+
+The holies of the holies were revealed, and
+the bridal chamber invited us in.
+
+As long as it is hidden, wickedness is indeed
+ineffectual, but it has not been removed from
+the midst of the seed of the Holy Spirit.
+
+They are slaves of evil.
+
+But when it is revealed, then the perfect
+light will flow out on every one.
+
+And all those who are in it will receive the
+chrism.
+
+Then the slaves will be free and the captives
+ransomed.
+{{< /highlight >}}
+
+I have indeed received the Bridal Chamber, the Holy Spirit and the chrism.
+
+
 ## Log: <span class="timestamp-wrapper"><span class="timestamp">&lt;2022-05-03 Tue&gt;</span></span> {#log}
 
 Last night I had my second astral projection
