@@ -18,7 +18,10 @@ you are an eternal spirit - [but how?](https://mullikine.github.io/posts/the-tap
 
 -   [John 7:38-](https://www.biblegateway.com/passage/?search=John%207%3A38&version=NIV) “He who believes in Me, as the Scripture said, ‘From his innermost being will flow rivers of living water.’ ”
 
--   9 That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. 10 For with the heart man bbelieveth unto righteousness; and with the mouth confession is made unto salvation.
+The cornerstone (most important part) of the gospel message:
+
+[Romans 10:9-10](https://www.biblegateway.com/passage/?search=Romans+10%3A9-10&version=NIV)
+: 9 That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. 10 For with the heart man bbelieveth unto righteousness; and with the mouth confession is made unto salvation.
 
 When you've seen God with spiritual eyes, a spring of living water is planted in the soul, gushing up to eternal life.
 
