@@ -43,6 +43,18 @@ redemption
 
 ---
 
+The spiritual marriage of man to Christ
+represents our union with God by
+Grace, the death of the old man, and the
+restoration of the Divine Image.
+
+This lofty and unfathomable mystery moves
+wholly away from any of the literal (and thus
+dangerous) marital images that abound in
+Western Christianity.
+
+---
+
 [Gospel of Philip](https://mullikine.github.io/posts/gospel-of-philip/)
 : He said on that day in the thanksgiving, "You who have joined the [perfect light](https://mullikine.github.io/posts/astral-projection/) with the [Holy Spirit](https://mullikine.github.io/posts/astral-projection-pt-2/), unite the angels with us also, as [being the images](https://mullikine.github.io/posts/astral-projection-pt-3/)." Do not despise the lamb, for without it, it is not possible to see the king.
 
