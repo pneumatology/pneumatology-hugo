@@ -127,6 +127,9 @@ But when God's spirit is connected to the human by His indwelling, the mind can 
 But if we make our spirit truthful (compatible with God), then we can
 [invite the Holy Spirit to live within us](https://mullikine.github.io/posts/prayer-of-salvation/), and we can [tap into the mind of God](https://biblehub.com/1%5Fcorinthians/2-11.htm).
 
+1 John 4:7
+: Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God.
+
 However, it gets more interesting than that.
 
 There is an immanent part of the human soul
@@ -1464,6 +1467,9 @@ as part of your own.
 
 It's a chicken-and-egg problem! But can be
 solved when you obey God's commandments.
+
+[1 Corinthians 3](https://www.biblegateway.com/passage/?search=1+Corinthians+3&version=kjv)
+: For other foundation can no man lay than that is laid, which is Jesus Christ.
 
 God's commandments are a reflection of God's
 personality as He can't be a hypocrite. If you
