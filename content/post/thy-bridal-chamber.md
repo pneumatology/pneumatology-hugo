@@ -248,3 +248,8 @@ There was no 'ceremony' that I followed.
 Whatever happened, happened spontaneously and changed me.
 
 It's surely something of an event at a higher dimension, and a mystery, which I am confident of in retrospect.
+
+
+## The door, the shepherd {#the-door-the-shepherd}
+
+-   [ This is Never Taught in Churches - The Sheepfold 2 of 5 - The Door - YouTube](https://www.youtube.com/watch?v=Hxqe5udqMDY)
