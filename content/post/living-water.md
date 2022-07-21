@@ -849,3 +849,37 @@ corrupt minds, reprobate concerning the faith.
 folly shall be manifest unto all men, as
 theirs also was.
 {{< /highlight >}}
+
+
+### [Gospel of Truth](http://gnosis.org/naghamm/got.html) {#gospel-of-truth}
+
+This is the first book which led me to a
+proper understand of God being Truth.
+
+However, the knowledge was already within
+myself, since personal spiritual truth points
+to [absolute spiritual truth](https://mullikine.github.io/posts/the-tapestry-of-truth/).
+
+---
+
+The theme throughout the Gospel of Truth is
+that the material world is evil.
+
+It is a fog separating humans from the Father.
+
+The only way to get through that fog is to get
+secret knowledge of the Truth.
+
+This Truth is referred to as a book, and Jesus
+is that book.
+
+When he was crucified, the book was published
+for all to see.
+
+For those who saw the book, the Truth, and
+understood, they would be saved.
+
+Upon seeing the Truth and being saved, they
+were then to renounce their worldly
+possessions and desires and ascend to the
+Father.
