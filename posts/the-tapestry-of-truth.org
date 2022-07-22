@@ -1,7 +1,7 @@
 #+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
 #+OPTIONS: toc:nil
-#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/pneumatology/pneumatology-hugo
-#+HUGO_SECTION: ./post
+#+HUGO_BASE_DIR: /home/shane/dump/home/shane/notes/ws/blog/blog
+#+HUGO_SECTION: ./posts
 
 #+TITLE: The Tapestry of Truth
 #+DATE: <2022-04-19>
@@ -883,17 +883,20 @@ commandments.
 # there in Sheol too, and His Spirit can be
 # found there.
 
-# Jesus actually
-# traversed everywhere we can go, from our
-# conception to death, and He is the Way, the
-# rope, the ladder and will be there still when
-# the world dissolves around your material eyes
-# as the curtains are closing (I have hope for
-# those that have taken their own life or met an
-# untimely end).
++ [[https://biblehub.com/kjv/ephesians/4.htm][Ephesians 4]] :: 9 (Now that he ascended, what is it but that he also descended first into the lower parts of the earth? 10He that descended is the same also that ascended up far above all heavens, that he might fill all things.)
+
+Jesus actually
+traversed everywhere we can go, from our
+conception to death, and He is the Way, the
+rope, the ladder and will be there still when
+the world dissolves around your material eyes
+as the curtains are closing (I have hope for
+those that have taken their own life or met an
+untimely end).
 
 According to the Gospel of Phillip, the
 rebirth must happen during this life.
+Does anyone really know the details?
 
 # , or [tentatively] during your descent into death.
 
@@ -1211,6 +1214,16 @@ It's about the attitude of your heart towards God.
 | Christ's law    | Follow Jesus, take up own (personal) cross. Ask for baptism of the Holy Spirit.                  | Assume the identity of Jesus (persecuted for righteousness); Righteousness of heart, not deed. Turn you into a spiritual representative of Jesus. Holy Spirit regenerates spirit and helps to maintain this |
 
 The word, “baptism” means to “dip in” or to “immerse”.
+
+# *** Holy Days, etc.
+# + [[https://www.biblegateway.com/passage/?search=Colossians+2&version=ESV][Colossians 2]] :: 16 Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath. 17 These are a shadow of the things to come, but the substance belongs to Christ. 
+
+# See: [[https://mullikine.github.io/posts/the-shadow-of-the-kingdom-of-god/][The Shadow of The Kingdom of God // Bodacious Blog]]
+
+# *** Divine Law
+# + [[https://www.biblegateway.com/passage/?search=Colossians+2&version=ESV][Colossians 2]] :: 18 Let no one disqualify you, insisting on asceticism and worship of angels, going on in detail about visions,[d] puffed up without reason by his sensuous mind, 19 and not holding fast to the Head, from whom the whole body, nourished and knit together through its joints and ligaments, grows with a growth that is from God. 20 If with Christ you died to the elemental spirits of the world, why, as if you were still alive in the world, do you submit to regulations— 21 “Do not handle, Do not taste, Do not touch” 22 (referring to things that all perish as they are used)—according to human precepts and teachings? 23 These have indeed an appearance of wisdom in promoting self-made religion and asceticism and severity to the body, but they are of no value in stopping the indulgence of the flesh.
+
+# Only divine-made religion is acceptible.
 
 *** Christ's law
 - https://womenlivingwell.org/2016/05/do-christians-pick-and-choose-which-parts-of-scripture-we-apply/
